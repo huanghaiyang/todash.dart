@@ -1,6 +1,6 @@
 import 'dart:core';
 
-dynamic get(Object map, String propertyChain, Object defaultValue) {
+dynamic get(Object map, String propertyChain, [Object defaultValue]) {
   List<String> properties = propertyChain.split(new RegExp('\\.'));
   dynamic result = map;
   while(properties.isNotEmpty) {
