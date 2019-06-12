@@ -3,6 +3,6 @@
 /// More dartdocs go here.
 library todash;
 
-export 'src/todash_base.dart';
+export 'src/get.dart';
 
 // TODO: Export any libraries intended for clients of this package.
