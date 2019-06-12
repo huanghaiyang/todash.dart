@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f89f2f13-2d8c-4a02-a7f0-e357694167e3" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lib/todash.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/todash.dart" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -16,27 +15,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="todash.dart" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lib/todash.dart">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="230">
-              <caret line="10" column="23" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
-              <folding>
-                <element signature="e#0#189#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="flattenDepth.dart" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lib/src/flattenDepth.dart">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="69">
-              <caret line="3" column="21" lean-forward="true" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="chunk.dart" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lib/src/chunk.dart">
           <provider selected="true" editor-type-id="text-editor">
@@ -61,11 +39,32 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="276">
               <caret line="12" column="6" selection-start-line="12" selection-start-column="6" selection-end-line="12" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="230">
+                <caret line="10" column="8" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="isNull.dart" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lib/src/isNull.dart">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="69">
+              <caret line="3" column="23" lean-forward="true" selection-start-line="3" selection-start-column="23" selection-end-line="3" selection-end-column="23" />
             </state>
           </provider>
         </entry>
@@ -78,6 +77,15 @@
               <folding>
                 <element signature="e#0#36#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="todash.dart" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/lib/todash.dart">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="69">
+              <caret line="5" column="25" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
             </state>
           </provider>
         </entry>
@@ -111,15 +119,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="231">
               <caret line="15" column="43" lean-forward="true" selection-start-line="15" selection-start-column="43" selection-end-line="15" selection-end-column="43" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="list.dart" pinned="false" current-in-tab="false">
-        <entry file="file:///Library/dart-sdk/lib/core/list.dart">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="474">
-              <caret line="591" column="8" lean-forward="true" selection-start-line="591" selection-start-column="8" selection-end-line="591" selection-end-column="8" />
             </state>
           </provider>
         </entry>
@@ -178,12 +177,13 @@
         <option value="$PROJECT_DIR$/lib/src/flattenDeep.dart" />
         <option value="$PROJECT_DIR$/pubspec.yaml" />
         <option value="$PROJECT_DIR$/lib/src/flattenDepth.dart" />
-        <option value="$PROJECT_DIR$/lib/todash.dart" />
         <option value="$PROJECT_DIR$/lib/src/slice.dart" />
         <option value="$PROJECT_DIR$/lib/src/chunk.dart" />
         <option value="$PROJECT_DIR$/test/slice_test.dart" />
         <option value="$PROJECT_DIR$/test/chunk_test.dart" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/lib/todash.dart" />
       </list>
     </option>
   </component>
@@ -207,7 +207,7 @@
         <observation name="false" value="167.0" />
       </dailyData>
       <dailyData date="13-6-2019">
-        <observation name="false" value="76.0" />
+        <observation name="false" value="78.0" />
       </dailyData>
     </factor>
     <factor id="binaryFeature:liftShorterClasses">
@@ -215,7 +215,7 @@
         <observation name="UNDEFINED" value="167.0" />
       </dailyData>
       <dailyData date="13-6-2019">
-        <observation name="UNDEFINED" value="76.0" />
+        <observation name="UNDEFINED" value="78.0" />
       </dailyData>
     </factor>
     <factor id="binaryFeature:middleMatching">
@@ -224,7 +224,7 @@
         <observation name="true" value="2.0" />
       </dailyData>
       <dailyData date="13-6-2019">
-        <observation name="false" value="76.0" />
+        <observation name="false" value="78.0" />
       </dailyData>
     </factor>
     <factor id="binaryFeature:nonGeneric">
@@ -232,7 +232,7 @@
         <observation name="UNDEFINED" value="167.0" />
       </dailyData>
       <dailyData date="13-6-2019">
-        <observation name="UNDEFINED" value="76.0" />
+        <observation name="UNDEFINED" value="78.0" />
       </dailyData>
     </factor>
     <factor id="binaryFeature:prox_inResolveScope">
@@ -240,7 +240,7 @@
         <observation name="UNDEFINED" value="167.0" />
       </dailyData>
       <dailyData date="13-6-2019">
-        <observation name="UNDEFINED" value="76.0" />
+        <observation name="UNDEFINED" value="78.0" />
       </dailyData>
     </factor>
     <factor id="binaryFeature:prox_openedInEditor">
@@ -248,7 +248,7 @@
         <observation name="UNDEFINED" value="167.0" />
       </dailyData>
       <dailyData date="13-6-2019">
-        <observation name="UNDEFINED" value="76.0" />
+        <observation name="UNDEFINED" value="78.0" />
       </dailyData>
     </factor>
     <factor id="binaryFeature:prox_sameDirectory">
@@ -256,7 +256,7 @@
         <observation name="UNDEFINED" value="167.0" />
       </dailyData>
       <dailyData date="13-6-2019">
-        <observation name="UNDEFINED" value="76.0" />
+        <observation name="UNDEFINED" value="78.0" />
       </dailyData>
     </factor>
     <factor id="binaryFeature:prox_sameLogicalRoot">
@@ -264,7 +264,7 @@
         <observation name="UNDEFINED" value="167.0" />
       </dailyData>
       <dailyData date="13-6-2019">
-        <observation name="UNDEFINED" value="76.0" />
+        <observation name="UNDEFINED" value="78.0" />
       </dailyData>
     </factor>
     <factor id="binaryFeature:prox_sdkOrLibrary">
@@ -272,7 +272,7 @@
         <observation name="UNDEFINED" value="167.0" />
       </dailyData>
       <dailyData date="13-6-2019">
-        <observation name="UNDEFINED" value="76.0" />
+        <observation name="UNDEFINED" value="78.0" />
       </dailyData>
     </factor>
     <factor id="binaryFeature:templates">
@@ -280,7 +280,7 @@
         <observation name="false" value="167.0" />
       </dailyData>
       <dailyData date="13-6-2019">
-        <observation name="false" value="76.0" />
+        <observation name="false" value="78.0" />
       </dailyData>
     </factor>
     <factor id="categorialFeature:accessible">
@@ -288,7 +288,7 @@
         <observation name="UNDEFINED" value="167.0" />
       </dailyData>
       <dailyData date="13-6-2019">
-        <observation name="UNDEFINED" value="76.0" />
+        <observation name="UNDEFINED" value="78.0" />
       </dailyData>
     </factor>
     <factor id="categorialFeature:expectedType">
@@ -296,7 +296,7 @@
         <observation name="UNDEFINED" value="167.0" />
       </dailyData>
       <dailyData date="13-6-2019">
-        <observation name="UNDEFINED" value="76.0" />
+        <observation name="UNDEFINED" value="78.0" />
       </dailyData>
     </factor>
     <factor id="categorialFeature:kind">
@@ -304,7 +304,7 @@
         <observation name="UNDEFINED" value="167.0" />
       </dailyData>
       <dailyData date="13-6-2019">
-        <observation name="UNDEFINED" value="76.0" />
+        <observation name="UNDEFINED" value="78.0" />
       </dailyData>
     </factor>
     <factor id="categorialFeature:prox_groovyReferenceListWeigher">
@@ -312,7 +312,7 @@
         <observation name="UNDEFINED" value="167.0" />
       </dailyData>
       <dailyData date="13-6-2019">
-        <observation name="UNDEFINED" value="76.0" />
+        <observation name="UNDEFINED" value="78.0" />
       </dailyData>
     </factor>
     <factor id="categorialFeature:prox_javaInheritance">
@@ -320,7 +320,7 @@
         <observation name="UNDEFINED" value="167.0" />
       </dailyData>
       <dailyData date="13-6-2019">
-        <observation name="UNDEFINED" value="76.0" />
+        <observation name="UNDEFINED" value="78.0" />
       </dailyData>
     </factor>
     <factor id="categorialFeature:prox_referenceList">
@@ -328,7 +328,7 @@
         <observation name="UNDEFINED" value="167.0" />
       </dailyData>
       <dailyData date="13-6-2019">
-        <observation name="UNDEFINED" value="76.0" />
+        <observation name="UNDEFINED" value="78.0" />
       </dailyData>
     </factor>
     <factor id="categorialFeature:recursion">
@@ -336,7 +336,7 @@
         <observation name="UNDEFINED" value="167.0" />
       </dailyData>
       <dailyData date="13-6-2019">
-        <observation name="UNDEFINED" value="76.0" />
+        <observation name="UNDEFINED" value="78.0" />
       </dailyData>
     </factor>
     <factor id="completionFinishedType">
@@ -346,8 +346,8 @@
         <observation name="typedSelect" value="93.0" />
       </dailyData>
       <dailyData date="13-6-2019">
-        <observation name="cancelled" value="145.0" />
-        <observation name="explicitSelect" value="34.0" />
+        <observation name="cancelled" value="229.0" />
+        <observation name="explicitSelect" value="36.0" />
         <observation name="typedSelect" value="42.0" />
       </dailyData>
     </factor>
@@ -356,7 +356,7 @@
         <observation name="BASIC" value="247.0" />
       </dailyData>
       <dailyData date="13-6-2019">
-        <observation name="BASIC" value="104.0" />
+        <observation name="BASIC" value="107.0" />
       </dailyData>
     </factor>
     <factor id="completionUsage">
@@ -364,7 +364,7 @@
         <observation name="count" value="501.0" />
       </dailyData>
       <dailyData date="13-6-2019">
-        <observation name="count" value="221.0" />
+        <observation name="count" value="307.0" />
       </dailyData>
     </factor>
     <factor id="doubleFeature:explicitProximity">
@@ -377,7 +377,7 @@
       </dailyData>
       <dailyData date="13-6-2019">
         <observation name="average" value="0.0" />
-        <observation name="count" value="151.0" />
+        <observation name="count" value="155.0" />
         <observation name="max" value="0.0" />
         <observation name="min" value="0.0" />
         <observation name="variance" value="0.0" />
@@ -393,7 +393,7 @@
       </dailyData>
       <dailyData date="13-6-2019">
         <observation name="average" value="0.0" />
-        <observation name="count" value="151.0" />
+        <observation name="count" value="155.0" />
         <observation name="max" value="0.0" />
         <observation name="min" value="0.0" />
         <observation name="variance" value="0.0" />
@@ -404,7 +404,7 @@
         <observation name="UNDEFINED" value="167.0" />
       </dailyData>
       <dailyData date="13-6-2019">
-        <observation name="UNDEFINED" value="76.0" />
+        <observation name="UNDEFINED" value="78.0" />
       </dailyData>
     </factor>
     <factor id="doubleFeature:nameEnd">
@@ -412,7 +412,7 @@
         <observation name="UNDEFINED" value="167.0" />
       </dailyData>
       <dailyData date="13-6-2019">
-        <observation name="UNDEFINED" value="76.0" />
+        <observation name="UNDEFINED" value="78.0" />
       </dailyData>
     </factor>
     <factor id="doubleFeature:position">
@@ -424,11 +424,11 @@
         <observation name="variance" value="0.037952" />
       </dailyData>
       <dailyData date="13-6-2019">
-        <observation name="average" value="0.211921" />
-        <observation name="count" value="151.0" />
+        <observation name="average" value="0.206452" />
+        <observation name="count" value="155.0" />
         <observation name="max" value="10.0" />
         <observation name="min" value="0.0" />
-        <observation name="variance" value="1.300424" />
+        <observation name="variance" value="1.284152" />
       </dailyData>
     </factor>
     <factor id="doubleFeature:prefix">
@@ -440,11 +440,11 @@
         <observation name="variance" value="11120.684186" />
       </dailyData>
       <dailyData date="13-6-2019">
-        <observation name="average" value="-1117.0" />
-        <observation name="count" value="151.0" />
+        <observation name="average" value="-1118.574194" />
+        <observation name="count" value="155.0" />
         <observation name="max" value="0.0" />
-        <observation name="min" value="-1158.0" />
-        <observation name="variance" value="15791.562502" />
+        <observation name="min" value="-1204.0" />
+        <observation name="variance" value="15642.320568" />
       </dailyData>
     </factor>
     <factor id="doubleFeature:priority">
@@ -457,7 +457,7 @@
       </dailyData>
       <dailyData date="13-6-2019">
         <observation name="average" value="0.0" />
-        <observation name="count" value="151.0" />
+        <observation name="count" value="155.0" />
         <observation name="max" value="0.0" />
         <observation name="min" value="0.0" />
         <observation name="variance" value="0.0" />
@@ -468,7 +468,7 @@
         <observation name="UNDEFINED" value="167.0" />
       </dailyData>
       <dailyData date="13-6-2019">
-        <observation name="UNDEFINED" value="76.0" />
+        <observation name="UNDEFINED" value="78.0" />
       </dailyData>
     </factor>
     <factor id="doubleFeature:prox_knownElement">
@@ -476,7 +476,7 @@
         <observation name="UNDEFINED" value="167.0" />
       </dailyData>
       <dailyData date="13-6-2019">
-        <observation name="UNDEFINED" value="76.0" />
+        <observation name="UNDEFINED" value="78.0" />
       </dailyData>
     </factor>
     <factor id="doubleFeature:prox_sameModule">
@@ -484,7 +484,7 @@
         <observation name="UNDEFINED" value="167.0" />
       </dailyData>
       <dailyData date="13-6-2019">
-        <observation name="UNDEFINED" value="76.0" />
+        <observation name="UNDEFINED" value="78.0" />
       </dailyData>
     </factor>
     <factor id="doubleFeature:prox_samePsiMember">
@@ -492,7 +492,7 @@
         <observation name="UNDEFINED" value="167.0" />
       </dailyData>
       <dailyData date="13-6-2019">
-        <observation name="UNDEFINED" value="76.0" />
+        <observation name="UNDEFINED" value="78.0" />
       </dailyData>
     </factor>
     <factor id="doubleFeature:query_length">
@@ -505,7 +505,7 @@
       </dailyData>
       <dailyData date="13-6-2019">
         <observation name="average" value="0.0" />
-        <observation name="count" value="151.0" />
+        <observation name="count" value="155.0" />
         <observation name="max" value="0.0" />
         <observation name="min" value="0.0" />
         <observation name="variance" value="0.0" />
@@ -520,11 +520,11 @@
         <observation name="variance" value="55.057962" />
       </dailyData>
       <dailyData date="13-6-2019">
-        <observation name="average" value="5.470199" />
-        <observation name="count" value="151.0" />
+        <observation name="average" value="5.574194" />
+        <observation name="count" value="155.0" />
         <observation name="max" value="29.0" />
         <observation name="min" value="3.0" />
-        <observation name="variance" value="11.654804" />
+        <observation name="variance" value="12.094611" />
       </dailyData>
     </factor>
     <factor id="doubleFeature:sameWords">
@@ -532,7 +532,7 @@
         <observation name="UNDEFINED" value="167.0" />
       </dailyData>
       <dailyData date="13-6-2019">
-        <observation name="UNDEFINED" value="76.0" />
+        <observation name="UNDEFINED" value="78.0" />
       </dailyData>
     </factor>
     <factor id="doubleFeature:shorter">
@@ -540,7 +540,7 @@
         <observation name="UNDEFINED" value="167.0" />
       </dailyData>
       <dailyData date="13-6-2019">
-        <observation name="UNDEFINED" value="76.0" />
+        <observation name="UNDEFINED" value="78.0" />
       </dailyData>
     </factor>
     <factor id="doubleFeature:simple">
@@ -548,7 +548,7 @@
         <observation name="UNDEFINED" value="167.0" />
       </dailyData>
       <dailyData date="13-6-2019">
-        <observation name="UNDEFINED" value="76.0" />
+        <observation name="UNDEFINED" value="78.0" />
       </dailyData>
     </factor>
     <factor id="doubleFeature:sorter">
@@ -561,7 +561,7 @@
       </dailyData>
       <dailyData date="13-6-2019">
         <observation name="average" value="1.0" />
-        <observation name="count" value="151.0" />
+        <observation name="count" value="155.0" />
         <observation name="max" value="1.0" />
         <observation name="min" value="1.0" />
         <observation name="variance" value="0.0" />
@@ -572,7 +572,7 @@
         <observation name="UNDEFINED" value="167.0" />
       </dailyData>
       <dailyData date="13-6-2019">
-        <observation name="UNDEFINED" value="76.0" />
+        <observation name="UNDEFINED" value="78.0" />
       </dailyData>
     </factor>
     <factor id="doubleFeature:stats">
@@ -584,11 +584,11 @@
         <observation name="variance" value="20600140.52415" />
       </dailyData>
       <dailyData date="13-6-2019">
-        <observation name="average" value="6984.403974" />
-        <observation name="count" value="151.0" />
+        <observation name="average" value="6932.909677" />
+        <observation name="count" value="155.0" />
         <observation name="max" value="10000.0" />
         <observation name="min" value="0.0" />
-        <observation name="variance" value="17809945.167248" />
+        <observation name="variance" value="17948556.55141" />
       </dailyData>
     </factor>
     <factor id="itemPosition">
@@ -598,7 +598,7 @@
         <observation name="2" value="2.0" />
       </dailyData>
       <dailyData date="13-6-2019">
-        <observation name="0" value="31.0" />
+        <observation name="0" value="33.0" />
         <observation name="10" value="1.0" />
         <observation name="3" value="2.0" />
       </dailyData>
@@ -609,7 +609,7 @@
         <observation name="withMnemonics" value="2.0" />
       </dailyData>
       <dailyData date="13-6-2019">
-        <observation name="total" value="33.0" />
+        <observation name="total" value="35.0" />
         <observation name="withMnemonics" value="0.0" />
       </dailyData>
     </factor>
@@ -632,12 +632,12 @@
       </dailyData>
       <dailyData date="13-6-2019">
         <observation name="0" value="1.0" />
-        <observation name="2" value="9.0" />
+        <observation name="2" value="10.0" />
         <observation name="20" value="1.0" />
         <observation name="3" value="19.0" />
         <observation name="4" value="1.0" />
         <observation name="6" value="2.0" />
-        <observation name="7" value="1.0" />
+        <observation name="7" value="2.0" />
       </dailyData>
     </factor>
     <factor id="timeBetweenTyping">
@@ -646,8 +646,8 @@
         <observation name="count" value="253.0" />
       </dailyData>
       <dailyData date="13-6-2019">
-        <observation name="average" value="256.056452" />
-        <observation name="count" value="124.0" />
+        <observation name="average" value="253.813953" />
+        <observation name="count" value="129.0" />
       </dailyData>
     </factor>
   </component>
@@ -787,7 +787,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1560340405267</updated>
-      <workItem from="1560340408051" duration="9033000" />
+      <workItem from="1560340408051" duration="9371000" />
     </task>
     <servers />
   </component>
@@ -824,7 +824,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9033000" />
+    <option name="totallyTimeSpent" value="9371000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1680" height="973" extended-state="6" />
@@ -935,13 +935,6 @@
     <entry file="file://$PROJECT_DIR$/.packages">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/lib/src/isNull.dart">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="69">
-          <caret line="3" column="23" lean-forward="true" selection-start-line="3" selection-start-column="23" selection-end-line="3" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file:///Library/dart-sdk/lib/core/function.dart">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-593">
@@ -1030,16 +1023,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lib/todash.dart">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="230">
-          <caret line="10" column="23" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
-          <folding>
-            <element signature="e#0#189#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file:///Library/dart-sdk/lib/core/list.dart">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="474">
@@ -1091,16 +1074,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test/slice_test.dart">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="8" column="7" lean-forward="true" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
-          <folding>
-            <element signature="e#0#36#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/test/chunk_test.dart">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="222">
@@ -1115,6 +1088,40 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="276">
           <caret line="12" column="6" selection-start-line="12" selection-start-column="6" selection-end-line="12" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/src/isNull.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="3" column="23" lean-forward="true" selection-start-line="3" selection-start-column="23" selection-end-line="3" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/slice_test.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="8" column="7" lean-forward="true" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
+          <folding>
+            <element signature="e#0#36#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="230">
+            <caret line="10" column="8" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/todash.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="5" column="25" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
         </state>
       </provider>
     </entry>

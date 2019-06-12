@@ -3,6 +3,7 @@
 /// More dartdocs go here.
 library todash;
 
+export 'src/isNull.dart';
 export 'src/get.dart';
 export 'src/flatten.dart';
 export 'src/flattenDeep.dart';
