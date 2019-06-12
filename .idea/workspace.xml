@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f89f2f13-2d8c-4a02-a7f0-e357694167e3" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/lib/src/flattenDepth.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/src/flattenDepth.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/todash.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/todash.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -15,15 +15,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="get.dart" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lib/src/get.dart">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="184">
-              <caret line="8" column="26" lean-forward="true" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="todash.dart" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lib/todash.dart">
           <provider selected="true" editor-type-id="text-editor">
@@ -58,11 +49,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="flattenDepth.dart" pinned="false" current-in-tab="true">
+      <file leaf-file-name="flattenDepth.dart" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lib/src/flattenDepth.dart">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="115">
-              <caret line="5" column="3" lean-forward="true" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
+            <state relative-caret-position="69">
+              <caret line="3" column="21" lean-forward="true" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="276">
+              <caret line="12" column="6" selection-start-line="12" selection-start-column="6" selection-end-line="12" selection-end-column="6" />
             </state>
           </provider>
         </entry>
@@ -170,6 +170,7 @@
         <option value="$PROJECT_DIR$/pubspec.yaml" />
         <option value="$PROJECT_DIR$/lib/todash.dart" />
         <option value="$PROJECT_DIR$/lib/src/flattenDepth.dart" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -276,7 +277,7 @@
     </factor>
     <factor id="completionFinishedType">
       <dailyData date="12-6-2019">
-        <observation name="cancelled" value="331.0" />
+        <observation name="cancelled" value="334.0" />
         <observation name="explicitSelect" value="74.0" />
         <observation name="typedSelect" value="93.0" />
       </dailyData>
@@ -288,7 +289,7 @@
     </factor>
     <factor id="completionUsage">
       <dailyData date="12-6-2019">
-        <observation name="count" value="498.0" />
+        <observation name="count" value="501.0" />
       </dailyData>
     </factor>
     <factor id="doubleFeature:explicitProximity">
@@ -488,41 +489,11 @@
             <path>
               <item name="todash" type="b2602c69:ProjectViewProjectNode" />
               <item name="todash" type="462c0819:PsiDirectoryNode" />
-              <item name="lib" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="internal" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="todash" type="b2602c69:ProjectViewProjectNode" />
-              <item name="todash" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="todash" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-            </path>
-            <path>
-              <item name="todash" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Dart SDK" type="3dd79eb:DartTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="todash" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Dart SDK" type="3dd79eb:DartTreeStructureProvider$1" />
-              <item name="collection" type="e6ad2126:DartTreeStructureProvider$DartSdkOrLibraryRootNode" />
-            </path>
-            <path>
-              <item name="todash" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Dart SDK" type="3dd79eb:DartTreeStructureProvider$1" />
-              <item name="core" type="e6ad2126:DartTreeStructureProvider$DartSdkOrLibraryRootNode" />
-            </path>
-            <path>
-              <item name="todash" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Dart SDK" type="3dd79eb:DartTreeStructureProvider$1" />
-              <item name="math" type="e6ad2126:DartTreeStructureProvider$DartSdkOrLibraryRootNode" />
             </path>
           </expand>
           <select />
@@ -619,7 +590,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1560340405267</updated>
-      <workItem from="1560340408051" duration="6482000" />
+      <workItem from="1560340408051" duration="7198000" />
     </task>
     <servers />
   </component>
@@ -656,7 +627,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6482000" />
+    <option name="totallyTimeSpent" value="7198000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1680" height="973" extended-state="6" />
@@ -766,13 +737,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.packages">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="230">
-          <caret line="10" column="8" lean-forward="true" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/lib/src/isNull.dart">
       <provider selected="true" editor-type-id="text-editor">
@@ -899,8 +863,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/lib/src/flattenDepth.dart">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="115">
-          <caret line="5" column="3" lean-forward="true" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
+        <state relative-caret-position="69">
+          <caret line="3" column="21" lean-forward="true" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="12" column="6" selection-start-line="12" selection-start-column="6" selection-end-line="12" selection-end-column="6" />
         </state>
       </provider>
     </entry>
