@@ -16,6 +16,7 @@ dependencies:
 + flattenDepth
 + chunk
 + isNull
++ after
 + before
 + flatMap
 + flatMapDeep
