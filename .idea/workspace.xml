@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f89f2f13-2d8c-4a02-a7f0-e357694167e3" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/todash.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/todash.dart" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,11 +14,95 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
+      <file leaf-file-name="flatMap.dart" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lib/src/flatMap.dart">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="23">
+              <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" selection-end-column="86" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="flatMapDeep.dart" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lib/src/flatMapDeep.dart">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="299">
+              <caret line="13" column="1" lean-forward="true" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
+              <folding>
+                <element signature="e#0#54#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="flatMapDepth.dart" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lib/src/flatMapDepth.dart">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="207">
+              <caret line="9" column="27" lean-forward="true" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
+              <folding>
+                <element signature="e#0#54#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="arguments_errors.dart" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lib/src/internal/arguments_errors.dart">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="27" selection-start-column="6" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="flattenDeep.dart" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lib/src/flattenDeep.dart">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="23">
+              <caret line="1" selection-start-line="1" selection-end-line="1" selection-end-column="52" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="flatMap_test.dart" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test/flatMap_test.dart">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="279">
+              <caret line="20" column="35" lean-forward="true" selection-start-line="20" selection-start-column="35" selection-end-line="20" selection-end-column="35" />
+              <folding>
+                <element signature="e#0#36#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="todash.dart" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/lib/todash.dart">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="230">
+              <caret line="10" column="26" lean-forward="true" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="get_test.dart" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test/get_test.dart">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="230">
+              <caret line="10" column="25" lean-forward="true" selection-end-line="19" />
+              <folding>
+                <element signature="e#0#36#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="chunk_test.dart" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test/chunk_test.dart">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="207">
-              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+            <state relative-caret-position="322">
+              <caret line="14" column="18" lean-forward="true" selection-end-line="24" />
               <folding>
                 <element signature="e#0#36#0" expanded="true" />
               </folding>
@@ -28,94 +110,13 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
+      <file leaf-file-name="flatten_test.dart" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test/flatten_test.dart">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="276">
-              <caret line="12" column="6" lean-forward="true" selection-start-line="12" selection-start-column="6" selection-end-line="12" selection-end-column="6" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="pubspec.yaml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pubspec.yaml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="207">
-              <caret line="9" selection-start-line="9" selection-end-line="9" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="pubspec.lock" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pubspec.lock">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="23">
-              <caret line="13" column="16" lean-forward="true" selection-start-line="13" selection-start-column="16" selection-end-line="13" selection-end-column="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="184">
-                <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="slice_test.dart" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test/slice_test.dart">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="211">
-              <caret line="14" column="18" lean-forward="true" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
+            <state relative-caret-position="184">
+              <caret line="8" column="7" lean-forward="true" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
               <folding>
                 <element signature="e#0#36#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="todash.dart" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lib/todash.dart">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="207">
-              <caret line="9" column="24" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="before.dart" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lib/src/before.dart">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="265">
-              <caret line="49" column="42" lean-forward="true" selection-start-line="49" selection-start-column="42" selection-end-line="49" selection-end-column="42" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="before_test.dart" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test/before_test.dart">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="321">
-              <caret line="19" column="27" lean-forward="true" selection-start-line="19" selection-start-column="27" selection-end-line="19" selection-end-column="27" />
-              <folding>
-                <element signature="e#0#36#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="function.dart" pinned="false" current-in-tab="false">
-        <entry file="file:///Library/dart-sdk/lib/core/function.dart">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="23">
-              <caret line="36" column="18" selection-start-line="36" selection-start-column="18" selection-end-line="36" selection-end-column="18" />
-              <folding>
-                <element signature="e#0#2465#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -134,11 +135,13 @@
     <findStrings>
       <find>array</find>
       <find>slice</find>
+      <find>chunk</find>
     </findStrings>
     <replaceStrings>
       <replace>toArray</replace>
       <replace>list</replace>
       <replace>chunk</replace>
+      <replace>flatMap</replace>
     </replaceStrings>
   </component>
   <component name="Git.Settings">
@@ -172,18 +175,25 @@
         <option value="$PROJECT_DIR$/test/flatten_test.dart" />
         <option value="$PROJECT_DIR$/lib/src/internal/baseFlatten.dart" />
         <option value="$PROJECT_DIR$/lib/src/internal/maxNumber.dart" />
-        <option value="$PROJECT_DIR$/lib/src/flattenDeep.dart" />
         <option value="$PROJECT_DIR$/pubspec.yaml" />
         <option value="$PROJECT_DIR$/lib/src/flattenDepth.dart" />
         <option value="$PROJECT_DIR$/lib/src/slice.dart" />
         <option value="$PROJECT_DIR$/lib/src/chunk.dart" />
         <option value="$PROJECT_DIR$/test/slice_test.dart" />
         <option value="$PROJECT_DIR$/test/chunk_test.dart" />
-        <option value="$PROJECT_DIR$/lib/todash.dart" />
         <option value="$PROJECT_DIR$/lib/src/before.dart" />
         <option value="$PROJECT_DIR$/test/before_test.dart" />
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/lib/src/flattenDeep.dart" />
+        <option value="$PROJECT_DIR$/lib/src/every.dart" />
+        <option value="$PROJECT_DIR$/test/flatMap_test.dart" />
+        <option value="$PROJECT_DIR$/lib/src/internal/arguments_errors.dart" />
+        <option value="$PROJECT_DIR$/lib/src/flatMap.dart" />
+        <option value="$PROJECT_DIR$/lib/src/flatMapDeep.dart" />
+        <option value="$PROJECT_DIR$/lib/src/flatDepth.dart" />
+        <option value="$PROJECT_DIR$/lib/todash.dart" />
+        <option value="$PROJECT_DIR$/lib/src/flatMapDepth.dart" />
       </list>
     </option>
   </component>
@@ -207,7 +217,7 @@
         <observation name="false" value="167.0" />
       </dailyData>
       <dailyData date="13-6-2019">
-        <observation name="false" value="148.0" />
+        <observation name="false" value="228.0" />
       </dailyData>
     </factor>
     <factor id="binaryFeature:liftShorterClasses">
@@ -215,7 +225,7 @@
         <observation name="UNDEFINED" value="167.0" />
       </dailyData>
       <dailyData date="13-6-2019">
-        <observation name="UNDEFINED" value="148.0" />
+        <observation name="UNDEFINED" value="228.0" />
       </dailyData>
     </factor>
     <factor id="binaryFeature:middleMatching">
@@ -224,7 +234,7 @@
         <observation name="true" value="2.0" />
       </dailyData>
       <dailyData date="13-6-2019">
-        <observation name="false" value="147.0" />
+        <observation name="false" value="227.0" />
         <observation name="true" value="1.0" />
       </dailyData>
     </factor>
@@ -233,7 +243,7 @@
         <observation name="UNDEFINED" value="167.0" />
       </dailyData>
       <dailyData date="13-6-2019">
-        <observation name="UNDEFINED" value="148.0" />
+        <observation name="UNDEFINED" value="228.0" />
       </dailyData>
     </factor>
     <factor id="binaryFeature:prox_inResolveScope">
@@ -241,7 +251,7 @@
         <observation name="UNDEFINED" value="167.0" />
       </dailyData>
       <dailyData date="13-6-2019">
-        <observation name="UNDEFINED" value="148.0" />
+        <observation name="UNDEFINED" value="228.0" />
       </dailyData>
     </factor>
     <factor id="binaryFeature:prox_openedInEditor">
@@ -249,7 +259,7 @@
         <observation name="UNDEFINED" value="167.0" />
       </dailyData>
       <dailyData date="13-6-2019">
-        <observation name="UNDEFINED" value="148.0" />
+        <observation name="UNDEFINED" value="228.0" />
       </dailyData>
     </factor>
     <factor id="binaryFeature:prox_sameDirectory">
@@ -257,7 +267,7 @@
         <observation name="UNDEFINED" value="167.0" />
       </dailyData>
       <dailyData date="13-6-2019">
-        <observation name="UNDEFINED" value="148.0" />
+        <observation name="UNDEFINED" value="228.0" />
       </dailyData>
     </factor>
     <factor id="binaryFeature:prox_sameLogicalRoot">
@@ -265,7 +275,7 @@
         <observation name="UNDEFINED" value="167.0" />
       </dailyData>
       <dailyData date="13-6-2019">
-        <observation name="UNDEFINED" value="148.0" />
+        <observation name="UNDEFINED" value="228.0" />
       </dailyData>
     </factor>
     <factor id="binaryFeature:prox_sdkOrLibrary">
@@ -273,7 +283,7 @@
         <observation name="UNDEFINED" value="167.0" />
       </dailyData>
       <dailyData date="13-6-2019">
-        <observation name="UNDEFINED" value="148.0" />
+        <observation name="UNDEFINED" value="228.0" />
       </dailyData>
     </factor>
     <factor id="binaryFeature:templates">
@@ -281,7 +291,7 @@
         <observation name="false" value="167.0" />
       </dailyData>
       <dailyData date="13-6-2019">
-        <observation name="false" value="148.0" />
+        <observation name="false" value="228.0" />
       </dailyData>
     </factor>
     <factor id="categorialFeature:accessible">
@@ -289,7 +299,7 @@
         <observation name="UNDEFINED" value="167.0" />
       </dailyData>
       <dailyData date="13-6-2019">
-        <observation name="UNDEFINED" value="148.0" />
+        <observation name="UNDEFINED" value="228.0" />
       </dailyData>
     </factor>
     <factor id="categorialFeature:expectedType">
@@ -297,7 +307,7 @@
         <observation name="UNDEFINED" value="167.0" />
       </dailyData>
       <dailyData date="13-6-2019">
-        <observation name="UNDEFINED" value="148.0" />
+        <observation name="UNDEFINED" value="228.0" />
       </dailyData>
     </factor>
     <factor id="categorialFeature:kind">
@@ -305,7 +315,7 @@
         <observation name="UNDEFINED" value="167.0" />
       </dailyData>
       <dailyData date="13-6-2019">
-        <observation name="UNDEFINED" value="148.0" />
+        <observation name="UNDEFINED" value="228.0" />
       </dailyData>
     </factor>
     <factor id="categorialFeature:prox_groovyReferenceListWeigher">
@@ -313,7 +323,7 @@
         <observation name="UNDEFINED" value="167.0" />
       </dailyData>
       <dailyData date="13-6-2019">
-        <observation name="UNDEFINED" value="148.0" />
+        <observation name="UNDEFINED" value="228.0" />
       </dailyData>
     </factor>
     <factor id="categorialFeature:prox_javaInheritance">
@@ -321,7 +331,7 @@
         <observation name="UNDEFINED" value="167.0" />
       </dailyData>
       <dailyData date="13-6-2019">
-        <observation name="UNDEFINED" value="148.0" />
+        <observation name="UNDEFINED" value="228.0" />
       </dailyData>
     </factor>
     <factor id="categorialFeature:prox_referenceList">
@@ -329,7 +339,7 @@
         <observation name="UNDEFINED" value="167.0" />
       </dailyData>
       <dailyData date="13-6-2019">
-        <observation name="UNDEFINED" value="148.0" />
+        <observation name="UNDEFINED" value="228.0" />
       </dailyData>
     </factor>
     <factor id="categorialFeature:recursion">
@@ -337,7 +347,7 @@
         <observation name="UNDEFINED" value="167.0" />
       </dailyData>
       <dailyData date="13-6-2019">
-        <observation name="UNDEFINED" value="148.0" />
+        <observation name="UNDEFINED" value="228.0" />
       </dailyData>
     </factor>
     <factor id="completionFinishedType">
@@ -347,9 +357,9 @@
         <observation name="typedSelect" value="93.0" />
       </dailyData>
       <dailyData date="13-6-2019">
-        <observation name="cancelled" value="385.0" />
-        <observation name="explicitSelect" value="63.0" />
-        <observation name="typedSelect" value="85.0" />
+        <observation name="cancelled" value="501.0" />
+        <observation name="explicitSelect" value="110.0" />
+        <observation name="typedSelect" value="118.0" />
       </dailyData>
     </factor>
     <factor id="completionType">
@@ -357,7 +367,7 @@
         <observation name="BASIC" value="247.0" />
       </dailyData>
       <dailyData date="13-6-2019">
-        <observation name="BASIC" value="200.0" />
+        <observation name="BASIC" value="299.0" />
       </dailyData>
     </factor>
     <factor id="completionUsage">
@@ -365,7 +375,7 @@
         <observation name="count" value="501.0" />
       </dailyData>
       <dailyData date="13-6-2019">
-        <observation name="count" value="533.0" />
+        <observation name="count" value="729.0" />
       </dailyData>
     </factor>
     <factor id="doubleFeature:explicitProximity">
@@ -378,7 +388,7 @@
       </dailyData>
       <dailyData date="13-6-2019">
         <observation name="average" value="0.0" />
-        <observation name="count" value="295.0" />
+        <observation name="count" value="455.0" />
         <observation name="max" value="0.0" />
         <observation name="min" value="0.0" />
         <observation name="variance" value="0.0" />
@@ -394,7 +404,7 @@
       </dailyData>
       <dailyData date="13-6-2019">
         <observation name="average" value="0.0" />
-        <observation name="count" value="295.0" />
+        <observation name="count" value="455.0" />
         <observation name="max" value="0.0" />
         <observation name="min" value="0.0" />
         <observation name="variance" value="0.0" />
@@ -405,7 +415,7 @@
         <observation name="UNDEFINED" value="167.0" />
       </dailyData>
       <dailyData date="13-6-2019">
-        <observation name="UNDEFINED" value="148.0" />
+        <observation name="UNDEFINED" value="228.0" />
       </dailyData>
     </factor>
     <factor id="doubleFeature:nameEnd">
@@ -413,7 +423,7 @@
         <observation name="UNDEFINED" value="167.0" />
       </dailyData>
       <dailyData date="13-6-2019">
-        <observation name="UNDEFINED" value="148.0" />
+        <observation name="UNDEFINED" value="228.0" />
       </dailyData>
     </factor>
     <factor id="doubleFeature:position">
@@ -425,11 +435,11 @@
         <observation name="variance" value="0.037952" />
       </dailyData>
       <dailyData date="13-6-2019">
-        <observation name="average" value="0.142373" />
-        <observation name="count" value="295.0" />
+        <observation name="average" value="0.149451" />
+        <observation name="count" value="455.0" />
         <observation name="max" value="10.0" />
         <observation name="min" value="0.0" />
-        <observation name="variance" value="0.984363" />
+        <observation name="variance" value="0.880405" />
       </dailyData>
     </factor>
     <factor id="doubleFeature:prefix">
@@ -441,11 +451,11 @@
         <observation name="variance" value="11120.684186" />
       </dailyData>
       <dailyData date="13-6-2019">
-        <observation name="average" value="-1106.057627" />
-        <observation name="count" value="295.0" />
+        <observation name="average" value="-1118.112088" />
+        <observation name="count" value="455.0" />
         <observation name="max" value="0.0" />
-        <observation name="min" value="-1204.0" />
-        <observation name="variance" value="26378.84241" />
+        <observation name="min" value="-1254.0" />
+        <observation name="variance" value="21693.014363" />
       </dailyData>
     </factor>
     <factor id="doubleFeature:priority">
@@ -458,7 +468,7 @@
       </dailyData>
       <dailyData date="13-6-2019">
         <observation name="average" value="0.0" />
-        <observation name="count" value="295.0" />
+        <observation name="count" value="455.0" />
         <observation name="max" value="0.0" />
         <observation name="min" value="0.0" />
         <observation name="variance" value="0.0" />
@@ -469,7 +479,7 @@
         <observation name="UNDEFINED" value="167.0" />
       </dailyData>
       <dailyData date="13-6-2019">
-        <observation name="UNDEFINED" value="148.0" />
+        <observation name="UNDEFINED" value="228.0" />
       </dailyData>
     </factor>
     <factor id="doubleFeature:prox_knownElement">
@@ -477,7 +487,7 @@
         <observation name="UNDEFINED" value="167.0" />
       </dailyData>
       <dailyData date="13-6-2019">
-        <observation name="UNDEFINED" value="148.0" />
+        <observation name="UNDEFINED" value="228.0" />
       </dailyData>
     </factor>
     <factor id="doubleFeature:prox_sameModule">
@@ -485,7 +495,7 @@
         <observation name="UNDEFINED" value="167.0" />
       </dailyData>
       <dailyData date="13-6-2019">
-        <observation name="UNDEFINED" value="148.0" />
+        <observation name="UNDEFINED" value="228.0" />
       </dailyData>
     </factor>
     <factor id="doubleFeature:prox_samePsiMember">
@@ -493,7 +503,7 @@
         <observation name="UNDEFINED" value="167.0" />
       </dailyData>
       <dailyData date="13-6-2019">
-        <observation name="UNDEFINED" value="148.0" />
+        <observation name="UNDEFINED" value="228.0" />
       </dailyData>
     </factor>
     <factor id="doubleFeature:query_length">
@@ -506,7 +516,7 @@
       </dailyData>
       <dailyData date="13-6-2019">
         <observation name="average" value="0.0" />
-        <observation name="count" value="295.0" />
+        <observation name="count" value="455.0" />
         <observation name="max" value="0.0" />
         <observation name="min" value="0.0" />
         <observation name="variance" value="0.0" />
@@ -521,11 +531,11 @@
         <observation name="variance" value="55.057962" />
       </dailyData>
       <dailyData date="13-6-2019">
-        <observation name="average" value="5.640678" />
-        <observation name="count" value="295.0" />
-        <observation name="max" value="29.0" />
+        <observation name="average" value="6.285714" />
+        <observation name="count" value="455.0" />
+        <observation name="max" value="49.0" />
         <observation name="min" value="1.0" />
-        <observation name="variance" value="10.653394" />
+        <observation name="variance" value="19.033" />
       </dailyData>
     </factor>
     <factor id="doubleFeature:sameWords">
@@ -533,7 +543,7 @@
         <observation name="UNDEFINED" value="167.0" />
       </dailyData>
       <dailyData date="13-6-2019">
-        <observation name="UNDEFINED" value="148.0" />
+        <observation name="UNDEFINED" value="228.0" />
       </dailyData>
     </factor>
     <factor id="doubleFeature:shorter">
@@ -541,7 +551,7 @@
         <observation name="UNDEFINED" value="167.0" />
       </dailyData>
       <dailyData date="13-6-2019">
-        <observation name="UNDEFINED" value="148.0" />
+        <observation name="UNDEFINED" value="228.0" />
       </dailyData>
     </factor>
     <factor id="doubleFeature:simple">
@@ -549,7 +559,7 @@
         <observation name="UNDEFINED" value="167.0" />
       </dailyData>
       <dailyData date="13-6-2019">
-        <observation name="UNDEFINED" value="148.0" />
+        <observation name="UNDEFINED" value="228.0" />
       </dailyData>
     </factor>
     <factor id="doubleFeature:sorter">
@@ -562,7 +572,7 @@
       </dailyData>
       <dailyData date="13-6-2019">
         <observation name="average" value="1.0" />
-        <observation name="count" value="295.0" />
+        <observation name="count" value="455.0" />
         <observation name="max" value="1.0" />
         <observation name="min" value="1.0" />
         <observation name="variance" value="0.0" />
@@ -573,7 +583,7 @@
         <observation name="UNDEFINED" value="167.0" />
       </dailyData>
       <dailyData date="13-6-2019">
-        <observation name="UNDEFINED" value="148.0" />
+        <observation name="UNDEFINED" value="228.0" />
       </dailyData>
     </factor>
     <factor id="doubleFeature:stats">
@@ -585,11 +595,11 @@
         <observation name="variance" value="20600140.52415" />
       </dailyData>
       <dailyData date="13-6-2019">
-        <observation name="average" value="5056.742373" />
-        <observation name="count" value="295.0" />
+        <observation name="average" value="5410.463736" />
+        <observation name="count" value="455.0" />
         <observation name="max" value="10000.0" />
         <observation name="min" value="0.0" />
-        <observation name="variance" value="20966553.900569" />
+        <observation name="variance" value="21535809.385832" />
       </dailyData>
     </factor>
     <factor id="itemPosition">
@@ -599,10 +609,12 @@
         <observation name="2" value="2.0" />
       </dailyData>
       <dailyData date="13-6-2019">
-        <observation name="0" value="58.0" />
+        <observation name="0" value="99.0" />
+        <observation name="1" value="3.0" />
         <observation name="10" value="1.0" />
-        <observation name="2" value="1.0" />
-        <observation name="3" value="3.0" />
+        <observation name="2" value="2.0" />
+        <observation name="3" value="4.0" />
+        <observation name="5" value="1.0" />
       </dailyData>
     </factor>
     <factor id="mnemonicsUsage">
@@ -611,7 +623,7 @@
         <observation name="withMnemonics" value="2.0" />
       </dailyData>
       <dailyData date="13-6-2019">
-        <observation name="total" value="58.0" />
+        <observation name="total" value="102.0" />
         <observation name="withMnemonics" value="1.0" />
       </dailyData>
     </factor>
@@ -634,14 +646,19 @@
       </dailyData>
       <dailyData date="13-6-2019">
         <observation name="0" value="3.0" />
-        <observation name="1" value="2.0" />
-        <observation name="2" value="24.0" />
+        <observation name="1" value="5.0" />
+        <observation name="11" value="1.0" />
+        <observation name="13" value="1.0" />
+        <observation name="2" value="38.0" />
         <observation name="20" value="1.0" />
-        <observation name="3" value="23.0" />
-        <observation name="4" value="4.0" />
-        <observation name="5" value="1.0" />
-        <observation name="6" value="3.0" />
+        <observation name="21" value="1.0" />
+        <observation name="29" value="1.0" />
+        <observation name="3" value="42.0" />
+        <observation name="4" value="5.0" />
+        <observation name="5" value="3.0" />
+        <observation name="6" value="5.0" />
         <observation name="7" value="2.0" />
+        <observation name="8" value="2.0" />
       </dailyData>
     </factor>
     <factor id="timeBetweenTyping">
@@ -650,8 +667,8 @@
         <observation name="count" value="253.0" />
       </dailyData>
       <dailyData date="13-6-2019">
-        <observation name="average" value="235.740196" />
-        <observation name="count" value="204.0" />
+        <observation name="average" value="241.320261" />
+        <observation name="count" value="306.0" />
       </dailyData>
     </factor>
   </component>
@@ -791,17 +808,11 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1560340405267</updated>
-      <workItem from="1560340408051" duration="15628000" />
+      <workItem from="1560340408051" duration="17652000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="tests_in_todash - 2019.06.13 at 00h 27m 33s.xml">
-      <configuration name="tests in todash" configurationId="DartTestRunConfigurationType" />
-    </history-entry>
-    <history-entry file="tests_in_todash - 2019.06.13 at 00h 28m 00s.xml">
-      <configuration name="tests in todash" configurationId="DartTestRunConfigurationType" />
-    </history-entry>
     <history-entry file="tests_in_todash - 2019.06.13 at 09h 18m 07s.xml">
       <configuration name="tests in todash" configurationId="DartTestRunConfigurationType" />
     </history-entry>
@@ -826,9 +837,15 @@
     <history-entry file="tests_in_todash - 2019.06.13 at 10h 05m 12s.xml">
       <configuration name="tests in todash" configurationId="DartTestRunConfigurationType" />
     </history-entry>
+    <history-entry file="tests_in_todash - 2019.06.13 at 11h 39m 32s.xml">
+      <configuration name="tests in todash" configurationId="DartTestRunConfigurationType" />
+    </history-entry>
+    <history-entry file="tests_in_todash - 2019.06.13 at 11h 39m 54s.xml">
+      <configuration name="tests in todash" configurationId="DartTestRunConfigurationType" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15628000" />
+    <option name="totallyTimeSpent" value="17652000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1680" height="973" extended-state="6" />
@@ -849,14 +866,14 @@
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" />
-      <window_info anchor="bottom" id="Debug" order="3" visible="true" weight="0.2867215" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.2867215" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Messages" weight="0.32902467" />
       <window_info anchor="right" id="Palette&#9;" />
       <window_info id="Image Layers" />
       <window_info anchor="right" id="Capture Analysis" />
       <window_info anchor="bottom" id="Flutter Performance" side_tool="true" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.41363102" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3149236" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Terminal" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24969475" />
@@ -953,27 +970,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lib/src/flatten.dart">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="92">
-          <caret line="4" column="1" lean-forward="true" selection-end-line="4" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/lib/src/internal/baseFlatten.dart">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="276">
           <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib/src/flattenDeep.dart">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="115">
-          <caret line="5" column="1" lean-forward="true" selection-end-line="5" selection-end-column="1" />
-          <folding>
-            <element signature="e#0#54#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1025,26 +1025,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test/flatten_test.dart">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="8" column="7" lean-forward="true" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
-          <folding>
-            <element signature="e#0#36#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/get_test.dart">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="17" column="5" lean-forward="true" selection-end-line="19" />
-          <folding>
-            <element signature="e#0#36#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/lib/src/chunk.dart">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="253">
@@ -1062,13 +1042,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lib/todash.dart">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="207">
-          <caret line="9" column="24" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file:///Library/dart-sdk/lib/core/function.dart">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="23">
@@ -1079,40 +1052,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test/chunk_test.dart">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="207">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
-          <folding>
-            <element signature="e#0#36#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/before_test.dart">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="321">
-          <caret line="19" column="27" lean-forward="true" selection-start-line="19" selection-start-column="27" selection-end-line="19" selection-end-column="27" />
-          <folding>
-            <element signature="e#0#36#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/lib/src/before.dart">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="265">
           <caret line="49" column="42" lean-forward="true" selection-start-line="49" selection-start-column="42" selection-end-line="49" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/slice_test.dart">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="211">
-          <caret line="14" column="18" lean-forward="true" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
-          <folding>
-            <element signature="e#0#36#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1139,11 +1082,129 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
+        <state split_layout="FIRST">
           <first_editor relative-caret-position="184">
             <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/src/every.dart">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/src/flatten.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="4" column="1" lean-forward="true" selection-end-line="4" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/before_test.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="19" column="27" lean-forward="true" selection-start-line="19" selection-start-column="27" selection-end-line="19" selection-end-column="27" />
+          <folding>
+            <element signature="e#0#36#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/slice_test.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="211">
+          <caret line="14" column="18" lean-forward="true" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
+          <folding>
+            <element signature="e#0#36#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/flatten_test.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="8" column="7" lean-forward="true" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
+          <folding>
+            <element signature="e#0#36#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/get_test.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="10" column="25" lean-forward="true" selection-end-line="19" />
+          <folding>
+            <element signature="e#0#36#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/chunk_test.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="14" column="18" lean-forward="true" selection-end-line="24" />
+          <folding>
+            <element signature="e#0#36#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/flatMap_test.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="279">
+          <caret line="20" column="35" lean-forward="true" selection-start-line="20" selection-start-column="35" selection-end-line="20" selection-end-column="35" />
+          <folding>
+            <element signature="e#0#36#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/src/flattenDeep.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23">
+          <caret line="1" selection-start-line="1" selection-end-line="1" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/src/internal/arguments_errors.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="27" selection-start-column="6" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/src/flatMap.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" selection-end-column="86" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/src/flatMapDeep.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="13" column="1" lean-forward="true" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
+          <folding>
+            <element signature="e#0#54#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/src/flatMapDepth.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="9" column="27" lean-forward="true" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
+          <folding>
+            <element signature="e#0#54#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/todash.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="10" column="26" lean-forward="true" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
         </state>
       </provider>
     </entry>
