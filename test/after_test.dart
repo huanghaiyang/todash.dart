@@ -16,7 +16,6 @@ void main() {
         print('complete.');
       });
       list.forEach((i) {
-        print(i);
         func();
       });
     });

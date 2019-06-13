@@ -12,3 +12,4 @@ export 'src/before.dart';
 export 'src/flatMap.dart';
 export 'src/flatMapDeep.dart';
 export 'src/flatMapDepth.dart';
+export 'src/defer.dart';

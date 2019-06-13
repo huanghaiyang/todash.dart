@@ -21,3 +21,4 @@ dependencies:
 + flatMap
 + flatMapDeep
 + flatMapDepth
++ defer
