@@ -7,6 +7,7 @@ export 'src/flattenDeep.dart';
 export 'src/flattenDepth.dart';
 export 'src/chunk.dart';
 export 'src/slice.dart';
+export 'src/after.dart';
 export 'src/before.dart';
 export 'src/flatMap.dart';
 export 'src/flatMapDeep.dart';
