@@ -1,4 +1,7 @@
-dynamic negate(Function predicate) {
+import 'dart:math';
+
+dynamic overArgs(Function func, List<Function> transforms) {
+  int funcsLength = transforms.length;
   return ([
     dynamic param1,
     dynamic param2,
@@ -45,6 +48,13 @@ dynamic negate(Function predicate) {
     if(param10 != null) {
       args.add(param10);
     }
-    return !Function.apply(predicate, args);
+    int index = -1;
+    int length = min(args.length, funcsLength);
+    while (++index < length) {
+      List argList = new List();
+      argList.add(args[index]);
+      args[index] = Function.apply(transforms[index], argList);
+    }
+    return Function.apply(func, args);
   };
 }

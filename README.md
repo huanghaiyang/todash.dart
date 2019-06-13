@@ -16,9 +16,16 @@ dependencies:
 + flattenDepth
 + chunk
 + isNull
++ isEven
++ isOdd
 + after
 + before
 + flatMap
 + flatMapDeep
 + flatMapDepth
 + defer
++ negate
++ square
++ double
++ once
++ overArgs

@@ -12,41 +12,41 @@ dynamic after(int n, Function func) {
     dynamic param10
   ]) {
     if(--n < 1) {
-      List list = new List();
+      List args = new List();
       if(param1 != null) {
-        list.add(param1);
+        args.add(param1);
       }
       if(param2 != null) {
-        list.add(param2);
+        args.add(param2);
       }
       if(param3 != null) {
-        list.add(param3);
+        args.add(param3);
       }
       if(param4 != null) {
-        list.add(param4);
+        args.add(param4);
       }
       if(param5 != null) {
-        list.add(param5);
+        args.add(param5);
       }
       if(param6 != null) {
-        list.add(param6);
+        args.add(param6);
       }
       if(param7 != null) {
-        list.add(param7);
+        args.add(param7);
       }
       if(param7 != null) {
-        list.add(param7);
+        args.add(param7);
       }
       if(param8 != null) {
-        list.add(param8);
+        args.add(param8);
       }
       if(param9 != null) {
-        list.add(param9);
+        args.add(param9);
       }
       if(param10 != null) {
-        list.add(param10);
+        args.add(param10);
       }
-      return Function.apply(func, list);
+      return Function.apply(func, args);
     }
   };
 }

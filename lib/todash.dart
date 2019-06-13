@@ -16,3 +16,7 @@ export 'src/flatMapDeep.dart';
 export 'src/flatMapDepth.dart';
 export 'src/defer.dart';
 export 'src/negate.dart';
+export 'src/once.dart';
+export 'src/square.dart';
+export 'src/doubled.dart';
+export 'src/overArgs.dart';
