@@ -1,6 +1,8 @@
 library todash;
 
 export 'src/isNull.dart';
+export 'src/isEven.dart';
+export 'src/isOdd.dart';
 export 'src/get.dart';
 export 'src/flatten.dart';
 export 'src/flattenDeep.dart';
@@ -13,3 +15,4 @@ export 'src/flatMap.dart';
 export 'src/flatMapDeep.dart';
 export 'src/flatMapDepth.dart';
 export 'src/defer.dart';
+export 'src/negate.dart';
