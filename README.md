@@ -1,6 +1,6 @@
 # A lodash implement by Dart
 
-# Add Dependency
+## Add Dependency
 ```yaml
 dependencies:
     todash:
@@ -17,3 +17,6 @@ dependencies:
 + chunk
 + isNull
 + before
++ flatMap
++ flatMapDeep
++ flatMapDepth

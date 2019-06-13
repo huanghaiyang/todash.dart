@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f89f2f13-2d8c-4a02-a7f0-e357694167e3" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/lib/todash.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/todash.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -77,11 +77,23 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="todash.dart" pinned="false" current-in-tab="true">
+      <file leaf-file-name="todash.dart" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lib/todash.dart">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="230">
               <caret line="10" column="26" lean-forward="true" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="468">
+                <caret line="21" column="14" selection-start-line="21" selection-start-column="14" selection-end-line="21" selection-end-column="14" />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -103,18 +115,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="322">
               <caret line="14" column="18" lean-forward="true" selection-end-line="24" />
-              <folding>
-                <element signature="e#0#36#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="flatten_test.dart" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test/flatten_test.dart">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="184">
-              <caret line="8" column="7" lean-forward="true" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
               <folding>
                 <element signature="e#0#36#0" expanded="true" />
               </folding>
@@ -184,7 +184,6 @@
         <option value="$PROJECT_DIR$/lib/src/before.dart" />
         <option value="$PROJECT_DIR$/test/before_test.dart" />
         <option value="$PROJECT_DIR$/.gitignore" />
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/lib/src/flattenDeep.dart" />
         <option value="$PROJECT_DIR$/lib/src/every.dart" />
         <option value="$PROJECT_DIR$/test/flatMap_test.dart" />
@@ -194,6 +193,7 @@
         <option value="$PROJECT_DIR$/lib/src/flatDepth.dart" />
         <option value="$PROJECT_DIR$/lib/todash.dart" />
         <option value="$PROJECT_DIR$/lib/src/flatMapDepth.dart" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -357,7 +357,7 @@
         <observation name="typedSelect" value="93.0" />
       </dailyData>
       <dailyData date="13-6-2019">
-        <observation name="cancelled" value="501.0" />
+        <observation name="cancelled" value="535.0" />
         <observation name="explicitSelect" value="110.0" />
         <observation name="typedSelect" value="118.0" />
       </dailyData>
@@ -375,7 +375,7 @@
         <observation name="count" value="501.0" />
       </dailyData>
       <dailyData date="13-6-2019">
-        <observation name="count" value="729.0" />
+        <observation name="count" value="763.0" />
       </dailyData>
     </factor>
     <factor id="doubleFeature:explicitProximity">
@@ -808,7 +808,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1560340405267</updated>
-      <workItem from="1560340408051" duration="17652000" />
+      <workItem from="1560340408051" duration="17737000" />
     </task>
     <servers />
   </component>
@@ -845,7 +845,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17652000" />
+    <option name="totallyTimeSpent" value="17737000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1680" height="973" extended-state="6" />
@@ -1080,16 +1080,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="184">
-            <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/lib/src/every.dart">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -1205,6 +1195,16 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="230">
           <caret line="10" column="26" lean-forward="true" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="468">
+            <caret line="21" column="14" selection-start-line="21" selection-start-column="14" selection-end-line="21" selection-end-column="14" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
