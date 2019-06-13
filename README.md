@@ -9,3 +9,4 @@
 + flattenDepth
 + chunk
 + isNull
++ before
