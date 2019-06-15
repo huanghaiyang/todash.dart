@@ -1,7 +1,7 @@
 import 'package:todash/src/internal/baseFlatten.dart';
 import 'package:todash/src/internal/arguments_errors.dart' show argNo1MustBeSetOrList;
 
-List flatMap(Object array, Function iteratee) {
+List flatMap(dynamic array, Function iteratee) {
   if(!(array is List || array is Set)) {
     throw new Exception(argNo1MustBeSetOrList);
   }

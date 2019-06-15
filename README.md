@@ -9,23 +9,36 @@ dependencies:
 
 ## supports
 
-+ get
+### Collection
 + slice
 + flatten
 + flattenDeep
 + flattenDepth
 + chunk
-+ isNull
-+ isEven
-+ isOdd
-+ after
-+ before
 + flatMap
 + flatMapDeep
 + flatMapDepth
++ map
++ each
++ forEach
+
+### Function
++ after
++ before
 + defer
 + negate
-+ square
-+ double
 + once
 + overArgs
++ memoize
+
+### Lang
++ isNull
++ isEven
++ isOdd
+
+### Math
+
+### Object
++ get
++ pick       // The type of key should be String, fix for other type later
++ pickBy

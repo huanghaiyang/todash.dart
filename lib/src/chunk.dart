@@ -1,4 +1,5 @@
 import 'dart:math';
+
 import 'package:todash/src/slice.dart';
 
 List chunk(List list, int size) {

@@ -1,8 +1,6 @@
-import 'dart:math';
-
-dynamic overArgs(Function func, List<Function> transforms) {
-  int funcsLength = transforms.length;
-  return (
+Function memoize(Function func, Function resolver) {
+  Map cache = new Map();
+  dynamic memoized (
       [dynamic param1,
       dynamic param2,
       dynamic param3,
@@ -47,12 +45,20 @@ dynamic overArgs(Function func, List<Function> transforms) {
     if (param10 != null) {
       args.add(param10);
     }
-    int index = -1;
-    int length = min(args.length, funcsLength);
-    while (++index < length) {
-      List argList = [args[index]];
-      args[index] = Function.apply(transforms[index], argList);
+
+    List resolverArgs = new List();
+    resolverArgs.add(cache);
+    resolverArgs.addAll(args);
+
+    dynamic key =
+        resolver != null ? Function.apply(resolver, resolverArgs) : args[0];
+
+    if (cache.containsKey(key)) {
+      return cache[key];
     }
-    return Function.apply(func, args);
+    dynamic result = Function.apply(func, args);
+    cache[key] = result;
+    return result;
   };
+  return memoized;
 }

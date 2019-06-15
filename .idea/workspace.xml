@@ -2,12 +2,30 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f89f2f13-2d8c-4a02-a7f0-e357694167e3" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lib/src/after.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/src/after.dart" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lib/src/before.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/src/before.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/src/chunk.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/src/chunk.dart" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lib/src/defer.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/src/defer.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/src/doubled.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/src/flatMap.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/src/flatMap.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/src/flatMapDeep.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/src/flatMapDeep.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/src/flatMapDepth.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/src/flatMapDepth.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/src/flatten.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/src/flatten.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/src/flattenDeep.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/src/flattenDeep.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/src/flattenDepth.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/src/flattenDepth.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/src/get.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/src/get.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/src/internal/baseFlatten.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/src/internal/baseFlatten.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/src/internal/isFlattenable.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/src/internal/isFlattenable.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/src/internal/maxNumber.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/src/internal/maxNumber.dart" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lib/src/negate.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/src/negate.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/src/once.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/src/once.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/src/overArgs.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/src/overArgs.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/src/slice.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/src/slice.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/src/square.dart" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/lib/todash.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/todash.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/overArgs_test.dart" beforeDir="false" afterPath="$PROJECT_DIR$/test/overArgs_test.dart" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -19,26 +37,91 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="isOdd.dart" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lib/src/isOdd.dart">
+      <file leaf-file-name="hasIn.dart" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lib/src/internal/hasIn.dart">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="46">
-              <caret line="2" column="1" lean-forward="true" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
+            <state relative-caret-position="69">
+              <caret line="3" column="12" lean-forward="true" selection-start-line="3" selection-start-column="12" selection-end-line="3" selection-end-column="12" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="negate.dart" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lib/src/negate.dart">
+      <file leaf-file-name="isKey.dart" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lib/src/internal/isKey.dart">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="161">
-              <caret line="7" column="19" lean-forward="true" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
+            <state relative-caret-position="299">
+              <caret line="13" column="20" lean-forward="true" selection-start-line="13" selection-start-column="20" selection-end-line="13" selection-end-column="20" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="once.dart" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lib/src/once.dart">
+      <file leaf-file-name="stack_zone_specification.dart" pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/.pub-cache/hosted/pub.flutter-io.cn/stack_trace-1.9.3/lib/src/stack_zone_specification.dart">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="348">
+              <caret line="175" column="31" selection-start-line="175" selection-start-column="31" selection-end-line="175" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pick.dart" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lib/src/pick.dart">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="226">
+              <caret line="38" column="11" selection-start-line="38" selection-start-column="11" selection-end-line="38" selection-end-column="11" />
+              <folding>
+                <element signature="e#0#51#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="get_test.dart" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test/get_test.dart">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <element signature="e#0#36#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pick_test.dart" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test/pick_test.dart">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="236">
+              <caret line="11" column="39" lean-forward="true" selection-start-line="11" selection-start-column="39" selection-end-line="11" selection-end-column="39" />
+              <folding>
+                <element signature="e#0#32#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="283">
+                <caret line="43" column="8" lean-forward="true" selection-start-line="43" selection-start-column="8" selection-end-line="43" selection-end-column="8" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="isEven.dart" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lib/src/isEven.dart">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="23">
+              <caret line="1" column="11" selection-start-line="1" selection-start-column="11" selection-end-line="1" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="forEach.dart" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lib/src/forEach.dart">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="92">
               <caret line="4" column="1" lean-forward="true" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
@@ -46,71 +129,14 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="overArgs.dart" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/lib/src/overArgs.dart">
+      <file leaf-file-name="castPath.dart" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lib/src/internal/castPath.dart">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="426">
-              <caret line="57" column="38" lean-forward="true" selection-start-line="57" selection-start-column="38" selection-end-line="57" selection-end-column="38" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="after.dart" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lib/src/after.dart">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="518">
-              <caret line="24" column="26" lean-forward="true" selection-start-line="24" selection-start-column="26" selection-end-line="24" selection-end-column="26" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="overArgs_test.dart" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test/overArgs_test.dart">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="232">
-              <caret line="23" column="20" selection-start-line="23" selection-start-column="20" selection-end-line="23" selection-end-column="20" />
+            <state relative-caret-position="161">
+              <caret line="7" column="46" selection-start-line="7" selection-start-column="46" selection-end-line="7" selection-end-column="46" />
               <folding>
-                <element signature="e#0#36#0" expanded="true" />
+                <element signature="e#0#48#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="todash.dart" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lib/todash.dart">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="483">
-              <caret line="21" column="20" selection-start-line="21" selection-start-column="12" selection-end-line="21" selection-end-column="20" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="after_test.dart" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test/after_test.dart">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
-              <caret line="17" column="24" lean-forward="true" selection-end-line="24" />
-              <folding>
-                <element signature="e#0#36#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="slice.dart" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lib/src/slice.dart">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="242">
-              <caret line="15" column="43" lean-forward="true" selection-start-line="15" selection-start-column="43" selection-end-line="15" selection-end-column="43" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="square.dart" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lib/src/square.dart">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="46">
-              <caret line="2" column="1" lean-forward="true" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -138,6 +164,16 @@
       <find>chunk</find>
       <find>list</find>
       <find>after</find>
+      <find>memoized.cache</find>
+      <find>reEscapeChar</find>
+      <find>charCodeOfDot</find>
+      <find>baseGet</find>
+      <find>object</find>
+      <find>function</find>
+      <find>,</find>
+      <find>describe</find>
+      <find>it(</find>
+      <find>args</find>
     </findStrings>
     <replaceStrings>
       <replace>toArray</replace>
@@ -149,6 +185,11 @@
       <replace>negate</replace>
       <replace>args</replace>
       <replace>overArgs</replace>
+      <replace>cache</replace>
+      <replace>map</replace>
+      <replace>test(</replace>
+      <replace>expect</replace>
+      <replace>paths</replace>
     </replaceStrings>
   </component>
   <component name="Git.Settings">
@@ -170,53 +211,57 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/test/todash_test.dart" />
-        <option value="$PROJECT_DIR$/test/get.dart" />
-        <option value="$PROJECT_DIR$/test/get_test.dart" />
-        <option value="$PROJECT_DIR$/lib/src/isObjectLike.dart" />
-        <option value="$PROJECT_DIR$/lib/src/isNull.dart" />
-        <option value="$PROJECT_DIR$/lib/src/isFlattenable.dart" />
-        <option value="$PROJECT_DIR$/lib/src/internal/flatten.dart" />
-        <option value="$PROJECT_DIR$/lib/src/get.dart" />
-        <option value="$PROJECT_DIR$/test/flatten_test.dart" />
-        <option value="$PROJECT_DIR$/lib/src/internal/baseFlatten.dart" />
-        <option value="$PROJECT_DIR$/lib/src/internal/maxNumber.dart" />
-        <option value="$PROJECT_DIR$/pubspec.yaml" />
-        <option value="$PROJECT_DIR$/lib/src/flattenDepth.dart" />
-        <option value="$PROJECT_DIR$/lib/src/slice.dart" />
-        <option value="$PROJECT_DIR$/lib/src/chunk.dart" />
-        <option value="$PROJECT_DIR$/test/slice_test.dart" />
-        <option value="$PROJECT_DIR$/test/chunk_test.dart" />
-        <option value="$PROJECT_DIR$/test/before_test.dart" />
-        <option value="$PROJECT_DIR$/lib/src/flattenDeep.dart" />
-        <option value="$PROJECT_DIR$/lib/src/every.dart" />
-        <option value="$PROJECT_DIR$/test/flatMap_test.dart" />
-        <option value="$PROJECT_DIR$/lib/src/internal/arguments_errors.dart" />
-        <option value="$PROJECT_DIR$/lib/src/flatMap.dart" />
-        <option value="$PROJECT_DIR$/lib/src/flatMapDeep.dart" />
-        <option value="$PROJECT_DIR$/lib/src/flatDepth.dart" />
         <option value="$PROJECT_DIR$/lib/src/flatMapDepth.dart" />
-        <option value="$PROJECT_DIR$/.gitignore" />
-        <option value="$PROJECT_DIR$/lib/src/throttle.dart" />
-        <option value="$PROJECT_DIR$/lib/src/debounce.dart" />
-        <option value="$PROJECT_DIR$/test/after_test.dart" />
-        <option value="$PROJECT_DIR$/test/defer_test.dart" />
-        <option value="$PROJECT_DIR$/lib/src/isEven.dart" />
-        <option value="$PROJECT_DIR$/lib/src/isOdd.dart" />
-        <option value="$PROJECT_DIR$/test/negate_test.dart" />
-        <option value="$PROJECT_DIR$/lib/src/once.dart" />
-        <option value="$PROJECT_DIR$/lib/src/doubled.dart" />
-        <option value="$PROJECT_DIR$/lib/src/square.dart" />
-        <option value="$PROJECT_DIR$/lib/src/overArgs.daet.dart" />
-        <option value="$PROJECT_DIR$/lib/todash.dart" />
-        <option value="$PROJECT_DIR$/README.md" />
-        <option value="$PROJECT_DIR$/lib/src/after.dart" />
-        <option value="$PROJECT_DIR$/lib/src/before.dart" />
-        <option value="$PROJECT_DIR$/lib/src/defer.dart" />
         <option value="$PROJECT_DIR$/lib/src/flatten.dart" />
-        <option value="$PROJECT_DIR$/lib/src/negate.dart" />
-        <option value="$PROJECT_DIR$/test/overArgs_test.dart" />
+        <option value="$PROJECT_DIR$/lib/src/internal/hasIn.dart" />
+        <option value="$PROJECT_DIR$/lib/src/internal/getAllKeysIn.dart" />
+        <option value="$PROJECT_DIR$/test/utils.dart" />
+        <option value="$PROJECT_DIR$/lib/src/internal/test.dart" />
+        <option value="$PROJECT_DIR$/lib/src/map.dart" />
+        <option value="$PROJECT_DIR$/lib/src/internal/isIndex.dart" />
+        <option value="$PROJECT_DIR$/lib/src/square.dart" />
+        <option value="$PROJECT_DIR$/lib/src/slice.dart" />
+        <option value="$PROJECT_DIR$/lib/src/pickBy.dart" />
         <option value="$PROJECT_DIR$/lib/src/overArgs.dart" />
+        <option value="$PROJECT_DIR$/lib/src/once.dart" />
+        <option value="$PROJECT_DIR$/lib/src/negate.dart" />
+        <option value="$PROJECT_DIR$/lib/src/flattenDeep.dart" />
+        <option value="$PROJECT_DIR$/lib/src/flattenDepth.dart" />
+        <option value="$PROJECT_DIR$/lib/src/get.dart" />
+        <option value="$PROJECT_DIR$/lib/src/defer.dart" />
+        <option value="$PROJECT_DIR$/lib/src/chunk.dart" />
+        <option value="$PROJECT_DIR$/lib/src/before.dart" />
+        <option value="$PROJECT_DIR$/lib/src/after.dart" />
+        <option value="$PROJECT_DIR$/lib/src/internal/maxNumber.dart" />
+        <option value="$PROJECT_DIR$/lib/src/internal/isFlattenable.dart" />
+        <option value="$PROJECT_DIR$/lib/src/internal/baseFlatten.dart" />
+        <option value="$PROJECT_DIR$/lib/src/internal/baseAssignValue.dart" />
+        <option value="$PROJECT_DIR$/lib/src/internal/assignValue.dart" />
+        <option value="$PROJECT_DIR$/lib/src/internal/test/utils.dart" />
+        <option value="$PROJECT_DIR$/test/isIndex_test.dart" />
+        <option value="$PROJECT_DIR$/test/overArgs_test.dart" />
+        <option value="$PROJECT_DIR$/test/pick.dart" />
+        <option value="$PROJECT_DIR$/lib/src/internal/forEach.dart" />
+        <option value="$PROJECT_DIR$/lib/src/internal/each.dart" />
+        <option value="$PROJECT_DIR$/lib/src/each.dart" />
+        <option value="$PROJECT_DIR$/lib/src/internal/test/arrayEaxh.dart" />
+        <option value="$PROJECT_DIR$/lib/src/forEach.dart" />
+        <option value="$PROJECT_DIR$/lib/todash.dart" />
+        <option value="$PROJECT_DIR$/lib/src/internal/basePickBy.dart" />
+        <option value="$PROJECT_DIR$/lib/src/internal/test/getKey.dart" />
+        <option value="$PROJECT_DIR$/lib/src/internal/baseGet.dart" />
+        <option value="$PROJECT_DIR$/lib/src/internal/toKey.dart" />
+        <option value="$PROJECT_DIR$/lib/src/memoize.dart" />
+        <option value="$PROJECT_DIR$/lib/src/internal/memoizeCapped.dart" />
+        <option value="$PROJECT_DIR$/lib/src/internal/stringToPath.dart" />
+        <option value="$PROJECT_DIR$/lib/src/internal/basePick.dart" />
+        <option value="$PROJECT_DIR$/lib/src/internal/hasDeepIn.dart" />
+        <option value="$PROJECT_DIR$/lib/src/internal/baseSet.dart" />
+        <option value="$PROJECT_DIR$/lib/src/pick.dart" />
+        <option value="$PROJECT_DIR$/lib/src/internal/isKey.dart" />
+        <option value="$PROJECT_DIR$/lib/src/internal/castPath.dart" />
+        <option value="$PROJECT_DIR$/test/pick_test.dart" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -240,7 +285,13 @@
         <observation name="false" value="167.0" />
       </dailyData>
       <dailyData date="13-6-2019">
-        <observation name="false" value="434.0" />
+        <observation name="false" value="482.0" />
+      </dailyData>
+      <dailyData date="14-6-2019">
+        <observation name="false" value="106.0" />
+      </dailyData>
+      <dailyData date="15-6-2019">
+        <observation name="false" value="545.0" />
       </dailyData>
     </factor>
     <factor id="binaryFeature:liftShorterClasses">
@@ -248,7 +299,13 @@
         <observation name="UNDEFINED" value="167.0" />
       </dailyData>
       <dailyData date="13-6-2019">
-        <observation name="UNDEFINED" value="434.0" />
+        <observation name="UNDEFINED" value="482.0" />
+      </dailyData>
+      <dailyData date="14-6-2019">
+        <observation name="UNDEFINED" value="106.0" />
+      </dailyData>
+      <dailyData date="15-6-2019">
+        <observation name="UNDEFINED" value="545.0" />
       </dailyData>
     </factor>
     <factor id="binaryFeature:middleMatching">
@@ -257,7 +314,14 @@
         <observation name="true" value="2.0" />
       </dailyData>
       <dailyData date="13-6-2019">
-        <observation name="false" value="433.0" />
+        <observation name="false" value="481.0" />
+        <observation name="true" value="1.0" />
+      </dailyData>
+      <dailyData date="14-6-2019">
+        <observation name="false" value="106.0" />
+      </dailyData>
+      <dailyData date="15-6-2019">
+        <observation name="false" value="544.0" />
         <observation name="true" value="1.0" />
       </dailyData>
     </factor>
@@ -266,7 +330,13 @@
         <observation name="UNDEFINED" value="167.0" />
       </dailyData>
       <dailyData date="13-6-2019">
-        <observation name="UNDEFINED" value="434.0" />
+        <observation name="UNDEFINED" value="482.0" />
+      </dailyData>
+      <dailyData date="14-6-2019">
+        <observation name="UNDEFINED" value="106.0" />
+      </dailyData>
+      <dailyData date="15-6-2019">
+        <observation name="UNDEFINED" value="545.0" />
       </dailyData>
     </factor>
     <factor id="binaryFeature:prox_inResolveScope">
@@ -274,7 +344,13 @@
         <observation name="UNDEFINED" value="167.0" />
       </dailyData>
       <dailyData date="13-6-2019">
-        <observation name="UNDEFINED" value="434.0" />
+        <observation name="UNDEFINED" value="482.0" />
+      </dailyData>
+      <dailyData date="14-6-2019">
+        <observation name="UNDEFINED" value="106.0" />
+      </dailyData>
+      <dailyData date="15-6-2019">
+        <observation name="UNDEFINED" value="545.0" />
       </dailyData>
     </factor>
     <factor id="binaryFeature:prox_openedInEditor">
@@ -282,7 +358,13 @@
         <observation name="UNDEFINED" value="167.0" />
       </dailyData>
       <dailyData date="13-6-2019">
-        <observation name="UNDEFINED" value="434.0" />
+        <observation name="UNDEFINED" value="482.0" />
+      </dailyData>
+      <dailyData date="14-6-2019">
+        <observation name="UNDEFINED" value="106.0" />
+      </dailyData>
+      <dailyData date="15-6-2019">
+        <observation name="UNDEFINED" value="545.0" />
       </dailyData>
     </factor>
     <factor id="binaryFeature:prox_sameDirectory">
@@ -290,7 +372,13 @@
         <observation name="UNDEFINED" value="167.0" />
       </dailyData>
       <dailyData date="13-6-2019">
-        <observation name="UNDEFINED" value="434.0" />
+        <observation name="UNDEFINED" value="482.0" />
+      </dailyData>
+      <dailyData date="14-6-2019">
+        <observation name="UNDEFINED" value="106.0" />
+      </dailyData>
+      <dailyData date="15-6-2019">
+        <observation name="UNDEFINED" value="545.0" />
       </dailyData>
     </factor>
     <factor id="binaryFeature:prox_sameLogicalRoot">
@@ -298,7 +386,13 @@
         <observation name="UNDEFINED" value="167.0" />
       </dailyData>
       <dailyData date="13-6-2019">
-        <observation name="UNDEFINED" value="434.0" />
+        <observation name="UNDEFINED" value="482.0" />
+      </dailyData>
+      <dailyData date="14-6-2019">
+        <observation name="UNDEFINED" value="106.0" />
+      </dailyData>
+      <dailyData date="15-6-2019">
+        <observation name="UNDEFINED" value="545.0" />
       </dailyData>
     </factor>
     <factor id="binaryFeature:prox_sdkOrLibrary">
@@ -306,7 +400,13 @@
         <observation name="UNDEFINED" value="167.0" />
       </dailyData>
       <dailyData date="13-6-2019">
-        <observation name="UNDEFINED" value="434.0" />
+        <observation name="UNDEFINED" value="482.0" />
+      </dailyData>
+      <dailyData date="14-6-2019">
+        <observation name="UNDEFINED" value="106.0" />
+      </dailyData>
+      <dailyData date="15-6-2019">
+        <observation name="UNDEFINED" value="545.0" />
       </dailyData>
     </factor>
     <factor id="binaryFeature:templates">
@@ -314,7 +414,13 @@
         <observation name="false" value="167.0" />
       </dailyData>
       <dailyData date="13-6-2019">
-        <observation name="false" value="434.0" />
+        <observation name="false" value="482.0" />
+      </dailyData>
+      <dailyData date="14-6-2019">
+        <observation name="false" value="106.0" />
+      </dailyData>
+      <dailyData date="15-6-2019">
+        <observation name="false" value="545.0" />
       </dailyData>
     </factor>
     <factor id="categorialFeature:accessible">
@@ -322,7 +428,13 @@
         <observation name="UNDEFINED" value="167.0" />
       </dailyData>
       <dailyData date="13-6-2019">
-        <observation name="UNDEFINED" value="434.0" />
+        <observation name="UNDEFINED" value="482.0" />
+      </dailyData>
+      <dailyData date="14-6-2019">
+        <observation name="UNDEFINED" value="106.0" />
+      </dailyData>
+      <dailyData date="15-6-2019">
+        <observation name="UNDEFINED" value="545.0" />
       </dailyData>
     </factor>
     <factor id="categorialFeature:expectedType">
@@ -330,7 +442,13 @@
         <observation name="UNDEFINED" value="167.0" />
       </dailyData>
       <dailyData date="13-6-2019">
-        <observation name="UNDEFINED" value="434.0" />
+        <observation name="UNDEFINED" value="482.0" />
+      </dailyData>
+      <dailyData date="14-6-2019">
+        <observation name="UNDEFINED" value="106.0" />
+      </dailyData>
+      <dailyData date="15-6-2019">
+        <observation name="UNDEFINED" value="545.0" />
       </dailyData>
     </factor>
     <factor id="categorialFeature:kind">
@@ -338,7 +456,13 @@
         <observation name="UNDEFINED" value="167.0" />
       </dailyData>
       <dailyData date="13-6-2019">
-        <observation name="UNDEFINED" value="434.0" />
+        <observation name="UNDEFINED" value="482.0" />
+      </dailyData>
+      <dailyData date="14-6-2019">
+        <observation name="UNDEFINED" value="106.0" />
+      </dailyData>
+      <dailyData date="15-6-2019">
+        <observation name="UNDEFINED" value="545.0" />
       </dailyData>
     </factor>
     <factor id="categorialFeature:prox_groovyReferenceListWeigher">
@@ -346,7 +470,13 @@
         <observation name="UNDEFINED" value="167.0" />
       </dailyData>
       <dailyData date="13-6-2019">
-        <observation name="UNDEFINED" value="434.0" />
+        <observation name="UNDEFINED" value="482.0" />
+      </dailyData>
+      <dailyData date="14-6-2019">
+        <observation name="UNDEFINED" value="106.0" />
+      </dailyData>
+      <dailyData date="15-6-2019">
+        <observation name="UNDEFINED" value="545.0" />
       </dailyData>
     </factor>
     <factor id="categorialFeature:prox_javaInheritance">
@@ -354,7 +484,13 @@
         <observation name="UNDEFINED" value="167.0" />
       </dailyData>
       <dailyData date="13-6-2019">
-        <observation name="UNDEFINED" value="434.0" />
+        <observation name="UNDEFINED" value="482.0" />
+      </dailyData>
+      <dailyData date="14-6-2019">
+        <observation name="UNDEFINED" value="106.0" />
+      </dailyData>
+      <dailyData date="15-6-2019">
+        <observation name="UNDEFINED" value="545.0" />
       </dailyData>
     </factor>
     <factor id="categorialFeature:prox_referenceList">
@@ -362,7 +498,13 @@
         <observation name="UNDEFINED" value="167.0" />
       </dailyData>
       <dailyData date="13-6-2019">
-        <observation name="UNDEFINED" value="434.0" />
+        <observation name="UNDEFINED" value="482.0" />
+      </dailyData>
+      <dailyData date="14-6-2019">
+        <observation name="UNDEFINED" value="106.0" />
+      </dailyData>
+      <dailyData date="15-6-2019">
+        <observation name="UNDEFINED" value="545.0" />
       </dailyData>
     </factor>
     <factor id="categorialFeature:recursion">
@@ -370,7 +512,13 @@
         <observation name="UNDEFINED" value="167.0" />
       </dailyData>
       <dailyData date="13-6-2019">
-        <observation name="UNDEFINED" value="434.0" />
+        <observation name="UNDEFINED" value="482.0" />
+      </dailyData>
+      <dailyData date="14-6-2019">
+        <observation name="UNDEFINED" value="106.0" />
+      </dailyData>
+      <dailyData date="15-6-2019">
+        <observation name="UNDEFINED" value="545.0" />
       </dailyData>
     </factor>
     <factor id="completionFinishedType">
@@ -380,9 +528,19 @@
         <observation name="typedSelect" value="93.0" />
       </dailyData>
       <dailyData date="13-6-2019">
-        <observation name="cancelled" value="785.0" />
+        <observation name="cancelled" value="867.0" />
+        <observation name="explicitSelect" value="240.0" />
+        <observation name="typedSelect" value="242.0" />
+      </dailyData>
+      <dailyData date="14-6-2019">
+        <observation name="cancelled" value="233.0" />
+        <observation name="explicitSelect" value="62.0" />
+        <observation name="typedSelect" value="44.0" />
+      </dailyData>
+      <dailyData date="15-6-2019">
+        <observation name="cancelled" value="708.0" />
         <observation name="explicitSelect" value="233.0" />
-        <observation name="typedSelect" value="201.0" />
+        <observation name="typedSelect" value="312.0" />
       </dailyData>
     </factor>
     <factor id="completionType">
@@ -390,7 +548,13 @@
         <observation name="BASIC" value="247.0" />
       </dailyData>
       <dailyData date="13-6-2019">
-        <observation name="BASIC" value="560.0" />
+        <observation name="BASIC" value="623.0" />
+      </dailyData>
+      <dailyData date="14-6-2019">
+        <observation name="BASIC" value="150.0" />
+      </dailyData>
+      <dailyData date="15-6-2019">
+        <observation name="BASIC" value="688.0" />
       </dailyData>
     </factor>
     <factor id="completionUsage">
@@ -398,7 +562,13 @@
         <observation name="count" value="501.0" />
       </dailyData>
       <dailyData date="13-6-2019">
-        <observation name="count" value="1219.0" />
+        <observation name="count" value="1349.0" />
+      </dailyData>
+      <dailyData date="14-6-2019">
+        <observation name="count" value="339.0" />
+      </dailyData>
+      <dailyData date="15-6-2019">
+        <observation name="count" value="1253.0" />
       </dailyData>
     </factor>
     <factor id="doubleFeature:explicitProximity">
@@ -411,7 +581,21 @@
       </dailyData>
       <dailyData date="13-6-2019">
         <observation name="average" value="0.0" />
-        <observation name="count" value="867.0" />
+        <observation name="count" value="963.0" />
+        <observation name="max" value="0.0" />
+        <observation name="min" value="0.0" />
+        <observation name="variance" value="0.0" />
+      </dailyData>
+      <dailyData date="14-6-2019">
+        <observation name="average" value="0.0" />
+        <observation name="count" value="211.0" />
+        <observation name="max" value="0.0" />
+        <observation name="min" value="0.0" />
+        <observation name="variance" value="0.0" />
+      </dailyData>
+      <dailyData date="15-6-2019">
+        <observation name="average" value="0.0" />
+        <observation name="count" value="1089.0" />
         <observation name="max" value="0.0" />
         <observation name="min" value="0.0" />
         <observation name="variance" value="0.0" />
@@ -427,7 +611,21 @@
       </dailyData>
       <dailyData date="13-6-2019">
         <observation name="average" value="0.0" />
-        <observation name="count" value="867.0" />
+        <observation name="count" value="963.0" />
+        <observation name="max" value="0.0" />
+        <observation name="min" value="0.0" />
+        <observation name="variance" value="0.0" />
+      </dailyData>
+      <dailyData date="14-6-2019">
+        <observation name="average" value="0.0" />
+        <observation name="count" value="211.0" />
+        <observation name="max" value="0.0" />
+        <observation name="min" value="0.0" />
+        <observation name="variance" value="0.0" />
+      </dailyData>
+      <dailyData date="15-6-2019">
+        <observation name="average" value="0.0" />
+        <observation name="count" value="1089.0" />
         <observation name="max" value="0.0" />
         <observation name="min" value="0.0" />
         <observation name="variance" value="0.0" />
@@ -438,7 +636,13 @@
         <observation name="UNDEFINED" value="167.0" />
       </dailyData>
       <dailyData date="13-6-2019">
-        <observation name="UNDEFINED" value="434.0" />
+        <observation name="UNDEFINED" value="482.0" />
+      </dailyData>
+      <dailyData date="14-6-2019">
+        <observation name="UNDEFINED" value="106.0" />
+      </dailyData>
+      <dailyData date="15-6-2019">
+        <observation name="UNDEFINED" value="545.0" />
       </dailyData>
     </factor>
     <factor id="doubleFeature:nameEnd">
@@ -446,7 +650,13 @@
         <observation name="UNDEFINED" value="167.0" />
       </dailyData>
       <dailyData date="13-6-2019">
-        <observation name="UNDEFINED" value="434.0" />
+        <observation name="UNDEFINED" value="482.0" />
+      </dailyData>
+      <dailyData date="14-6-2019">
+        <observation name="UNDEFINED" value="106.0" />
+      </dailyData>
+      <dailyData date="15-6-2019">
+        <observation name="UNDEFINED" value="545.0" />
       </dailyData>
     </factor>
     <factor id="doubleFeature:position">
@@ -458,11 +668,25 @@
         <observation name="variance" value="0.037952" />
       </dailyData>
       <dailyData date="13-6-2019">
-        <observation name="average" value="0.258362" />
-        <observation name="count" value="867.0" />
+        <observation name="average" value="0.232606" />
+        <observation name="count" value="963.0" />
         <observation name="max" value="54.0" />
         <observation name="min" value="0.0" />
-        <observation name="variance" value="4.780251" />
+        <observation name="variance" value="4.538931" />
+      </dailyData>
+      <dailyData date="14-6-2019">
+        <observation name="average" value="0.047393" />
+        <observation name="count" value="211.0" />
+        <observation name="max" value="1.0" />
+        <observation name="min" value="0.0" />
+        <observation name="variance" value="0.030618" />
+      </dailyData>
+      <dailyData date="15-6-2019">
+        <observation name="average" value="0.060606" />
+        <observation name="count" value="1089.0" />
+        <observation name="max" value="5.0" />
+        <observation name="min" value="0.0" />
+        <observation name="variance" value="0.164715" />
       </dailyData>
     </factor>
     <factor id="doubleFeature:prefix">
@@ -474,11 +698,25 @@
         <observation name="variance" value="11120.684186" />
       </dailyData>
       <dailyData date="13-6-2019">
-        <observation name="average" value="-1116.042676" />
-        <observation name="count" value="867.0" />
+        <observation name="average" value="-1116.106957" />
+        <observation name="count" value="963.0" />
         <observation name="max" value="0.0" />
         <observation name="min" value="-1254.0" />
-        <observation name="variance" value="23022.706758" />
+        <observation name="variance" value="21973.774175" />
+      </dailyData>
+      <dailyData date="14-6-2019">
+        <observation name="average" value="-1125.78673" />
+        <observation name="count" value="211.0" />
+        <observation name="max" value="-1052.0" />
+        <observation name="min" value="-1160.0" />
+        <observation name="variance" value="1799.228582" />
+      </dailyData>
+      <dailyData date="15-6-2019">
+        <observation name="average" value="-1121.172635" />
+        <observation name="count" value="1089.0" />
+        <observation name="max" value="0.0" />
+        <observation name="min" value="-1210.0" />
+        <observation name="variance" value="21134.899698" />
       </dailyData>
     </factor>
     <factor id="doubleFeature:priority">
@@ -491,7 +729,21 @@
       </dailyData>
       <dailyData date="13-6-2019">
         <observation name="average" value="0.0" />
-        <observation name="count" value="867.0" />
+        <observation name="count" value="963.0" />
+        <observation name="max" value="0.0" />
+        <observation name="min" value="0.0" />
+        <observation name="variance" value="0.0" />
+      </dailyData>
+      <dailyData date="14-6-2019">
+        <observation name="average" value="0.0" />
+        <observation name="count" value="211.0" />
+        <observation name="max" value="0.0" />
+        <observation name="min" value="0.0" />
+        <observation name="variance" value="0.0" />
+      </dailyData>
+      <dailyData date="15-6-2019">
+        <observation name="average" value="0.0" />
+        <observation name="count" value="1089.0" />
         <observation name="max" value="0.0" />
         <observation name="min" value="0.0" />
         <observation name="variance" value="0.0" />
@@ -502,7 +754,13 @@
         <observation name="UNDEFINED" value="167.0" />
       </dailyData>
       <dailyData date="13-6-2019">
-        <observation name="UNDEFINED" value="434.0" />
+        <observation name="UNDEFINED" value="482.0" />
+      </dailyData>
+      <dailyData date="14-6-2019">
+        <observation name="UNDEFINED" value="106.0" />
+      </dailyData>
+      <dailyData date="15-6-2019">
+        <observation name="UNDEFINED" value="545.0" />
       </dailyData>
     </factor>
     <factor id="doubleFeature:prox_knownElement">
@@ -510,7 +768,13 @@
         <observation name="UNDEFINED" value="167.0" />
       </dailyData>
       <dailyData date="13-6-2019">
-        <observation name="UNDEFINED" value="434.0" />
+        <observation name="UNDEFINED" value="482.0" />
+      </dailyData>
+      <dailyData date="14-6-2019">
+        <observation name="UNDEFINED" value="106.0" />
+      </dailyData>
+      <dailyData date="15-6-2019">
+        <observation name="UNDEFINED" value="545.0" />
       </dailyData>
     </factor>
     <factor id="doubleFeature:prox_sameModule">
@@ -518,7 +782,13 @@
         <observation name="UNDEFINED" value="167.0" />
       </dailyData>
       <dailyData date="13-6-2019">
-        <observation name="UNDEFINED" value="434.0" />
+        <observation name="UNDEFINED" value="482.0" />
+      </dailyData>
+      <dailyData date="14-6-2019">
+        <observation name="UNDEFINED" value="106.0" />
+      </dailyData>
+      <dailyData date="15-6-2019">
+        <observation name="UNDEFINED" value="545.0" />
       </dailyData>
     </factor>
     <factor id="doubleFeature:prox_samePsiMember">
@@ -526,7 +796,13 @@
         <observation name="UNDEFINED" value="167.0" />
       </dailyData>
       <dailyData date="13-6-2019">
-        <observation name="UNDEFINED" value="434.0" />
+        <observation name="UNDEFINED" value="482.0" />
+      </dailyData>
+      <dailyData date="14-6-2019">
+        <observation name="UNDEFINED" value="106.0" />
+      </dailyData>
+      <dailyData date="15-6-2019">
+        <observation name="UNDEFINED" value="545.0" />
       </dailyData>
     </factor>
     <factor id="doubleFeature:query_length">
@@ -539,7 +815,21 @@
       </dailyData>
       <dailyData date="13-6-2019">
         <observation name="average" value="0.0" />
-        <observation name="count" value="867.0" />
+        <observation name="count" value="963.0" />
+        <observation name="max" value="0.0" />
+        <observation name="min" value="0.0" />
+        <observation name="variance" value="0.0" />
+      </dailyData>
+      <dailyData date="14-6-2019">
+        <observation name="average" value="0.0" />
+        <observation name="count" value="211.0" />
+        <observation name="max" value="0.0" />
+        <observation name="min" value="0.0" />
+        <observation name="variance" value="0.0" />
+      </dailyData>
+      <dailyData date="15-6-2019">
+        <observation name="average" value="0.0" />
+        <observation name="count" value="1089.0" />
         <observation name="max" value="0.0" />
         <observation name="min" value="0.0" />
         <observation name="variance" value="0.0" />
@@ -554,11 +844,25 @@
         <observation name="variance" value="55.057962" />
       </dailyData>
       <dailyData date="13-6-2019">
-        <observation name="average" value="6.184544" />
-        <observation name="count" value="867.0" />
+        <observation name="average" value="6.101765" />
+        <observation name="count" value="963.0" />
         <observation name="max" value="49.0" />
         <observation name="min" value="1.0" />
-        <observation name="variance" value="18.195159" />
+        <observation name="variance" value="19.350897" />
+      </dailyData>
+      <dailyData date="14-6-2019">
+        <observation name="average" value="9.810427" />
+        <observation name="count" value="211.0" />
+        <observation name="max" value="45.0" />
+        <observation name="min" value="2.0" />
+        <observation name="variance" value="59.099911" />
+      </dailyData>
+      <dailyData date="15-6-2019">
+        <observation name="average" value="7.964187" />
+        <observation name="count" value="1089.0" />
+        <observation name="max" value="48.0" />
+        <observation name="min" value="1.0" />
+        <observation name="variance" value="92.497739" />
       </dailyData>
     </factor>
     <factor id="doubleFeature:sameWords">
@@ -566,7 +870,13 @@
         <observation name="UNDEFINED" value="167.0" />
       </dailyData>
       <dailyData date="13-6-2019">
-        <observation name="UNDEFINED" value="434.0" />
+        <observation name="UNDEFINED" value="482.0" />
+      </dailyData>
+      <dailyData date="14-6-2019">
+        <observation name="UNDEFINED" value="106.0" />
+      </dailyData>
+      <dailyData date="15-6-2019">
+        <observation name="UNDEFINED" value="545.0" />
       </dailyData>
     </factor>
     <factor id="doubleFeature:shorter">
@@ -574,7 +884,13 @@
         <observation name="UNDEFINED" value="167.0" />
       </dailyData>
       <dailyData date="13-6-2019">
-        <observation name="UNDEFINED" value="434.0" />
+        <observation name="UNDEFINED" value="482.0" />
+      </dailyData>
+      <dailyData date="14-6-2019">
+        <observation name="UNDEFINED" value="106.0" />
+      </dailyData>
+      <dailyData date="15-6-2019">
+        <observation name="UNDEFINED" value="545.0" />
       </dailyData>
     </factor>
     <factor id="doubleFeature:simple">
@@ -582,7 +898,13 @@
         <observation name="UNDEFINED" value="167.0" />
       </dailyData>
       <dailyData date="13-6-2019">
-        <observation name="UNDEFINED" value="434.0" />
+        <observation name="UNDEFINED" value="482.0" />
+      </dailyData>
+      <dailyData date="14-6-2019">
+        <observation name="UNDEFINED" value="106.0" />
+      </dailyData>
+      <dailyData date="15-6-2019">
+        <observation name="UNDEFINED" value="545.0" />
       </dailyData>
     </factor>
     <factor id="doubleFeature:sorter">
@@ -595,7 +917,21 @@
       </dailyData>
       <dailyData date="13-6-2019">
         <observation name="average" value="1.0" />
-        <observation name="count" value="867.0" />
+        <observation name="count" value="963.0" />
+        <observation name="max" value="1.0" />
+        <observation name="min" value="1.0" />
+        <observation name="variance" value="0.0" />
+      </dailyData>
+      <dailyData date="14-6-2019">
+        <observation name="average" value="1.0" />
+        <observation name="count" value="211.0" />
+        <observation name="max" value="1.0" />
+        <observation name="min" value="1.0" />
+        <observation name="variance" value="0.0" />
+      </dailyData>
+      <dailyData date="15-6-2019">
+        <observation name="average" value="1.0" />
+        <observation name="count" value="1089.0" />
         <observation name="max" value="1.0" />
         <observation name="min" value="1.0" />
         <observation name="variance" value="0.0" />
@@ -606,7 +942,13 @@
         <observation name="UNDEFINED" value="167.0" />
       </dailyData>
       <dailyData date="13-6-2019">
-        <observation name="UNDEFINED" value="434.0" />
+        <observation name="UNDEFINED" value="482.0" />
+      </dailyData>
+      <dailyData date="14-6-2019">
+        <observation name="UNDEFINED" value="106.0" />
+      </dailyData>
+      <dailyData date="15-6-2019">
+        <observation name="UNDEFINED" value="545.0" />
       </dailyData>
     </factor>
     <factor id="doubleFeature:stats">
@@ -618,11 +960,25 @@
         <observation name="variance" value="20600140.52415" />
       </dailyData>
       <dailyData date="13-6-2019">
-        <observation name="average" value="5627.099193" />
-        <observation name="count" value="867.0" />
+        <observation name="average" value="5649.556594" />
+        <observation name="count" value="963.0" />
         <observation name="max" value="10000.0" />
         <observation name="min" value="0.0" />
-        <observation name="variance" value="22145896.661509" />
+        <observation name="variance" value="22162234.122625" />
+      </dailyData>
+      <dailyData date="14-6-2019">
+        <observation name="average" value="6587.516588" />
+        <observation name="count" value="211.0" />
+        <observation name="max" value="10000.0" />
+        <observation name="min" value="0.0" />
+        <observation name="variance" value="18709703.940702" />
+      </dailyData>
+      <dailyData date="15-6-2019">
+        <observation name="average" value="6029.393939" />
+        <observation name="count" value="1089.0" />
+        <observation name="max" value="10000.0" />
+        <observation name="min" value="0.0" />
+        <observation name="variance" value="21591011.189585" />
       </dailyData>
     </factor>
     <factor id="itemPosition">
@@ -632,7 +988,7 @@
         <observation name="2" value="2.0" />
       </dailyData>
       <dailyData date="13-6-2019">
-        <observation name="0" value="211.0" />
+        <observation name="0" value="218.0" />
         <observation name="1" value="12.0" />
         <observation name="10" value="1.0" />
         <observation name="15" value="1.0" />
@@ -641,6 +997,18 @@
         <observation name="5" value="1.0" />
         <observation name="54" value="1.0" />
       </dailyData>
+      <dailyData date="14-6-2019">
+        <observation name="0" value="57.0" />
+        <observation name="1" value="5.0" />
+      </dailyData>
+      <dailyData date="15-6-2019">
+        <observation name="0" value="216.0" />
+        <observation name="1" value="11.0" />
+        <observation name="2" value="1.0" />
+        <observation name="3" value="1.0" />
+        <observation name="4" value="3.0" />
+        <observation name="5" value="1.0" />
+      </dailyData>
     </factor>
     <factor id="mnemonicsUsage">
       <dailyData date="12-6-2019">
@@ -648,8 +1016,16 @@
         <observation name="withMnemonics" value="2.0" />
       </dailyData>
       <dailyData date="13-6-2019">
-        <observation name="total" value="208.0" />
+        <observation name="total" value="214.0" />
         <observation name="withMnemonics" value="2.0" />
+      </dailyData>
+      <dailyData date="14-6-2019">
+        <observation name="total" value="55.0" />
+        <observation name="withMnemonics" value="0.0" />
+      </dailyData>
+      <dailyData date="15-6-2019">
+        <observation name="total" value="204.0" />
+        <observation name="withMnemonics" value="4.0" />
       </dailyData>
     </factor>
     <factor id="prefixLength">
@@ -671,20 +1047,56 @@
       </dailyData>
       <dailyData date="13-6-2019">
         <observation name="0" value="7.0" />
-        <observation name="1" value="18.0" />
+        <observation name="1" value="19.0" />
         <observation name="10" value="1.0" />
         <observation name="11" value="1.0" />
         <observation name="13" value="1.0" />
-        <observation name="2" value="75.0" />
+        <observation name="2" value="78.0" />
         <observation name="20" value="1.0" />
-        <observation name="21" value="2.0" />
+        <observation name="21" value="3.0" />
         <observation name="29" value="1.0" />
-        <observation name="3" value="78.0" />
+        <observation name="3" value="79.0" />
+        <observation name="31" value="1.0" />
         <observation name="4" value="23.0" />
         <observation name="5" value="6.0" />
         <observation name="6" value="10.0" />
         <observation name="7" value="6.0" />
         <observation name="8" value="3.0" />
+      </dailyData>
+      <dailyData date="14-6-2019">
+        <observation name="1" value="7.0" />
+        <observation name="2" value="19.0" />
+        <observation name="21" value="1.0" />
+        <observation name="24" value="5.0" />
+        <observation name="29" value="1.0" />
+        <observation name="3" value="16.0" />
+        <observation name="30" value="2.0" />
+        <observation name="32" value="3.0" />
+        <observation name="4" value="3.0" />
+        <observation name="5" value="2.0" />
+        <observation name="6" value="2.0" />
+        <observation name="7" value="1.0" />
+      </dailyData>
+      <dailyData date="15-6-2019">
+        <observation name="0" value="9.0" />
+        <observation name="1" value="20.0" />
+        <observation name="2" value="82.0" />
+        <observation name="21" value="10.0" />
+        <observation name="22" value="3.0" />
+        <observation name="23" value="1.0" />
+        <observation name="24" value="10.0" />
+        <observation name="3" value="51.0" />
+        <observation name="30" value="8.0" />
+        <observation name="31" value="5.0" />
+        <observation name="32" value="8.0" />
+        <observation name="34" value="1.0" />
+        <observation name="35" value="1.0" />
+        <observation name="4" value="11.0" />
+        <observation name="40" value="1.0" />
+        <observation name="5" value="6.0" />
+        <observation name="6" value="3.0" />
+        <observation name="7" value="2.0" />
+        <observation name="8" value="1.0" />
       </dailyData>
     </factor>
     <factor id="timeBetweenTyping">
@@ -693,8 +1105,16 @@
         <observation name="count" value="253.0" />
       </dailyData>
       <dailyData date="13-6-2019">
-        <observation name="average" value="223.85786" />
-        <observation name="count" value="598.0" />
+        <observation name="average" value="216.167894" />
+        <observation name="count" value="679.0" />
+      </dailyData>
+      <dailyData date="14-6-2019">
+        <observation name="average" value="143.101852" />
+        <observation name="count" value="216.0" />
+      </dailyData>
+      <dailyData date="15-6-2019">
+        <observation name="average" value="185.35" />
+        <observation name="count" value="780.0" />
       </dailyData>
     </factor>
   </component>
@@ -733,7 +1153,121 @@
             <path>
               <item name="todash" type="b2602c69:ProjectViewProjectNode" />
               <item name="todash" type="462c0819:PsiDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="internal" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="todash" type="b2602c69:ProjectViewProjectNode" />
+              <item name="todash" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="todash" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+            <path>
+              <item name="todash" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Dart Packages" type="3dd79eb:DartTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="todash" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Dart Packages" type="3dd79eb:DartTreeStructureProvider$1" />
+              <item name="lib" type="e6ad2126:DartTreeStructureProvider$DartSdkOrLibraryRootNode" />
+            </path>
+            <path>
+              <item name="todash" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Dart Packages" type="3dd79eb:DartTreeStructureProvider$1" />
+              <item name="lib" type="e6ad2126:DartTreeStructureProvider$DartSdkOrLibraryRootNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="todash" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Dart Packages" type="3dd79eb:DartTreeStructureProvider$1" />
+              <item name="lib" type="e6ad2126:DartTreeStructureProvider$DartSdkOrLibraryRootNode" />
+            </path>
+            <path>
+              <item name="todash" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Dart Packages" type="3dd79eb:DartTreeStructureProvider$1" />
+              <item name="lib" type="e6ad2126:DartTreeStructureProvider$DartSdkOrLibraryRootNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="todash" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Dart Packages" type="3dd79eb:DartTreeStructureProvider$1" />
+              <item name="lib" type="e6ad2126:DartTreeStructureProvider$DartSdkOrLibraryRootNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="bootstrap" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="todash" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Dart Packages" type="3dd79eb:DartTreeStructureProvider$1" />
+              <item name="lib" type="e6ad2126:DartTreeStructureProvider$DartSdkOrLibraryRootNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="runner" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="todash" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Dart Packages" type="3dd79eb:DartTreeStructureProvider$1" />
+              <item name="lib" type="e6ad2126:DartTreeStructureProvider$DartSdkOrLibraryRootNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="runner" type="462c0819:PsiDirectoryNode" />
+              <item name="browser" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="todash" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Dart Packages" type="3dd79eb:DartTreeStructureProvider$1" />
+              <item name="lib" type="e6ad2126:DartTreeStructureProvider$DartSdkOrLibraryRootNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="runner" type="462c0819:PsiDirectoryNode" />
+              <item name="node" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="todash" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Dart Packages" type="3dd79eb:DartTreeStructureProvider$1" />
+              <item name="lib" type="e6ad2126:DartTreeStructureProvider$DartSdkOrLibraryRootNode" />
+            </path>
+            <path>
+              <item name="todash" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Dart Packages" type="3dd79eb:DartTreeStructureProvider$1" />
+              <item name="lib" type="e6ad2126:DartTreeStructureProvider$DartSdkOrLibraryRootNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="todash" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Dart Packages" type="3dd79eb:DartTreeStructureProvider$1" />
+              <item name="lib" type="e6ad2126:DartTreeStructureProvider$DartSdkOrLibraryRootNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="backend" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="todash" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Dart Packages" type="3dd79eb:DartTreeStructureProvider$1" />
+              <item name="lib" type="e6ad2126:DartTreeStructureProvider$DartSdkOrLibraryRootNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="frontend" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="todash" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Dart Packages" type="3dd79eb:DartTreeStructureProvider$1" />
+              <item name="lib" type="e6ad2126:DartTreeStructureProvider$DartSdkOrLibraryRootNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="util" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -748,12 +1282,16 @@
     <property name="dart.analysis.tool.window.force.activate" value="false" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
     <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/lib/src/internal/test" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/lib/src/internal" />
+      <recent name="$PROJECT_DIR$/lib/src" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -768,9 +1306,19 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Dart Test.pick in pick_test.dart">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="pick in pick_test.dart" type="DartTestRunConfigurationType" factoryName="Dart Test" temporary="true" nameIsGenerated="true">
+      <option name="filePath" value="$PROJECT_DIR$/test/pick_test.dart" />
+      <option name="scope" value="GROUP_OR_TEST_BY_NAME" />
+      <option name="testName" value="pick" />
+    </configuration>
+    <configuration name="should return `true` for indexes in isIndex_test.dart" type="DartTestRunConfigurationType" factoryName="Dart Test" temporary="true" nameIsGenerated="true">
+      <option name="filePath" value="$PROJECT_DIR$/test/isIndex_test.dart" />
+      <option name="scope" value="GROUP_OR_TEST_BY_NAME" />
+      <option name="testName" value="should return `true` for indexes" />
     </configuration>
     <configuration name="tests in todash" type="DartTestRunConfigurationType" factoryName="Dart Test" temporary="true" nameIsGenerated="true">
       <option name="filePath" value="$PROJECT_DIR$" />
@@ -814,9 +1362,16 @@
       <properties />
       <listeners />
     </configuration>
+    <list>
+      <item itemvalue="Dart Test.tests in todash" />
+      <item itemvalue="Dart Test.should return `true` for indexes in isIndex_test.dart" />
+      <item itemvalue="Dart Test.pick in pick_test.dart" />
+    </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Dart Test.pick in pick_test.dart" />
         <item itemvalue="Dart Test.tests in todash" />
+        <item itemvalue="Dart Test.should return `true` for indexes in isIndex_test.dart" />
       </list>
     </recent_temporary>
   </component>
@@ -835,39 +1390,39 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="tests_in_todash - 2019.06.13 at 21h 04m 35s.xml">
-      <configuration name="tests in todash" configurationId="DartTestRunConfigurationType" />
+    <history-entry file="pick_in_pick_test_dart - 2019.06.15 at 20h 59m 24s.xml">
+      <configuration name="pick in pick_test.dart" configurationId="DartTestRunConfigurationType" />
     </history-entry>
-    <history-entry file="tests_in_todash - 2019.06.13 at 21h 04m 57s.xml">
-      <configuration name="tests in todash" configurationId="DartTestRunConfigurationType" />
+    <history-entry file="pick_in_pick_test_dart - 2019.06.15 at 21h 02m 41s.xml">
+      <configuration name="pick in pick_test.dart" configurationId="DartTestRunConfigurationType" />
     </history-entry>
-    <history-entry file="tests_in_todash - 2019.06.13 at 21h 06m 55s.xml">
-      <configuration name="tests in todash" configurationId="DartTestRunConfigurationType" />
+    <history-entry file="pick_in_pick_test_dart - 2019.06.15 at 21h 05m 41s.xml">
+      <configuration name="pick in pick_test.dart" configurationId="DartTestRunConfigurationType" />
     </history-entry>
-    <history-entry file="tests_in_todash - 2019.06.13 at 21h 29m 17s.xml">
-      <configuration name="tests in todash" configurationId="DartTestRunConfigurationType" />
+    <history-entry file="pick_in_pick_test_dart - 2019.06.15 at 21h 06m 19s.xml">
+      <configuration name="pick in pick_test.dart" configurationId="DartTestRunConfigurationType" />
     </history-entry>
-    <history-entry file="tests_in_todash - 2019.06.13 at 21h 31m 25s.xml">
-      <configuration name="tests in todash" configurationId="DartTestRunConfigurationType" />
+    <history-entry file="pick_in_pick_test_dart - 2019.06.15 at 21h 08m 03s.xml">
+      <configuration name="pick in pick_test.dart" configurationId="DartTestRunConfigurationType" />
     </history-entry>
-    <history-entry file="tests_in_todash - 2019.06.13 at 21h 32m 13s.xml">
-      <configuration name="tests in todash" configurationId="DartTestRunConfigurationType" />
+    <history-entry file="pick_in_pick_test_dart - 2019.06.15 at 21h 09m 02s.xml">
+      <configuration name="pick in pick_test.dart" configurationId="DartTestRunConfigurationType" />
     </history-entry>
-    <history-entry file="tests_in_todash - 2019.06.13 at 21h 33m 15s.xml">
-      <configuration name="tests in todash" configurationId="DartTestRunConfigurationType" />
+    <history-entry file="pick_in_pick_test_dart - 2019.06.15 at 21h 10m 16s.xml">
+      <configuration name="pick in pick_test.dart" configurationId="DartTestRunConfigurationType" />
     </history-entry>
-    <history-entry file="tests_in_todash - 2019.06.13 at 21h 33m 56s.xml">
-      <configuration name="tests in todash" configurationId="DartTestRunConfigurationType" />
+    <history-entry file="pick_in_pick_test_dart - 2019.06.15 at 21h 10m 20s.xml">
+      <configuration name="pick in pick_test.dart" configurationId="DartTestRunConfigurationType" />
     </history-entry>
-    <history-entry file="tests_in_todash - 2019.06.13 at 21h 35m 02s.xml">
-      <configuration name="tests in todash" configurationId="DartTestRunConfigurationType" />
+    <history-entry file="pick_in_pick_test_dart - 2019.06.15 at 21h 11m 41s.xml">
+      <configuration name="pick in pick_test.dart" configurationId="DartTestRunConfigurationType" />
     </history-entry>
-    <history-entry file="tests_in_todash - 2019.06.13 at 21h 36m 00s.xml">
-      <configuration name="tests in todash" configurationId="DartTestRunConfigurationType" />
+    <history-entry file="pick_in_pick_test_dart - 2019.06.15 at 21h 12m 09s.xml">
+      <configuration name="pick in pick_test.dart" configurationId="DartTestRunConfigurationType" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="28498000" />
+    <option name="totallyTimeSpent" value="62982000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1680" height="973" extended-state="6" />
@@ -888,7 +1443,7 @@
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.2867215" />
+      <window_info anchor="bottom" id="Debug" order="3" visible="true" weight="0.44065806" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Messages" weight="0.21269095" />
       <window_info anchor="right" id="Palette&#9;" />
@@ -898,7 +1453,7 @@
       <window_info anchor="bottom" id="Run" order="2" weight="0.3149236" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Terminal" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24969475" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24969475" />
       <window_info anchor="right" id="SciView" />
       <window_info anchor="right" id="Theme Preview" />
       <window_info id="Favorites" side_tool="true" />
@@ -924,67 +1479,73 @@
           <properties />
         </breakpoint>
       </default-breakpoints>
-      <option name="time" value="32" />
+      <option name="time" value="121" />
     </breakpoint-manager>
     <watches-manager>
       <configuration name="DartTestRunConfigurationType">
-        <watch expression="n % 2 == 0" />
-        <watch expression="transforms[index]" />
-        <watch expression=" args[index]" />
+        <watch expression="key.toString()" />
+        <watch expression="k == key.toString()" />
+        <watch expression="isKey(value, map) ? [value] : stringToPath(value.toString())" />
       </configuration>
     </watches-manager>
   </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>stringToPath(value)</expression-string>
+        <language-id>Dart</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>actual.toString()</expression-string>
+        <language-id>Dart</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+    <entry file="file://$PROJECT_DIR$/lib/src/overArgs.dart">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2421">
-          <caret line="10" column="52" lean-forward="true" selection-start-line="10" selection-start-column="52" selection-end-line="10" selection-end-column="52" />
+        <state relative-caret-position="260">
+          <caret line="47" column="24" lean-forward="true" selection-start-line="47" selection-start-column="24" selection-end-line="47" selection-end-column="24" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lib/src/todash_base.dart" />
-    <entry file="file://$PROJECT_DIR$/lib/src/internal/isFlattenable.dart">
+    <entry file="file://$PROJECT_DIR$/lib/src/once.dart">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="69">
-          <caret line="3" column="10" selection-start-line="3" selection-start-column="10" selection-end-line="3" selection-end-column="10" />
+        <state relative-caret-position="92">
+          <caret line="4" column="1" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/.pub-cache/hosted/pub.flutter-io.cn/test_api-0.2.6/lib/src/frontend/expect.dart">
+    <entry file="file://$PROJECT_DIR$/lib/src/negate.dart">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="156">
-          <caret line="152" column="29" selection-start-line="152" selection-start-column="29" selection-end-line="152" selection-end-column="29" />
+        <state relative-caret-position="437">
+          <caret line="19" column="25" lean-forward="true" selection-start-line="19" selection-start-column="25" selection-end-line="19" selection-end-column="25" />
         </state>
       </provider>
     </entry>
-    <entry file="file:///Library/dart-sdk/lib/math/math.dart">
+    <entry file="file://$PROJECT_DIR$/lib/src/flattenDeep.dart">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="368">
-          <caret line="16" column="10" lean-forward="true" selection-start-line="16" selection-start-column="10" selection-end-line="16" selection-end-column="10" />
+        <state relative-caret-position="138">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
           <folding>
-            <element signature="e#0#6472#0" expanded="true" />
+            <element signature="e#0#54#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file:///Library/dart-sdk/lib/math/rectangle.dart">
+    <entry file="file://$PROJECT_DIR$/lib/src/flattenDepth.dart">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2490">
-          <caret line="20" column="40" lean-forward="true" selection-start-line="20" selection-start-column="40" selection-end-line="20" selection-end-column="40" />
+        <state relative-caret-position="184">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lib/src/internal/maxNumber.dart">
+    <entry file="file://$PROJECT_DIR$/lib/src/get.dart">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="46">
-          <caret line="2" column="29" selection-start-line="2" selection-start-column="29" selection-end-line="2" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///Library/dart-sdk/lib/core/list.dart">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="474">
-          <caret line="591" column="8" lean-forward="true" selection-start-line="591" selection-start-column="8" selection-end-line="591" selection-end-column="8" />
+        <state relative-caret-position="414">
+          <caret line="18" column="7" lean-forward="true" selection-start-line="18" selection-start-column="7" selection-end-line="18" selection-end-column="7" />
         </state>
       </provider>
     </entry>
@@ -995,194 +1556,82 @@
         </state>
       </provider>
     </entry>
-    <entry file="file:///Library/dart-sdk/lib/core/function.dart">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="23">
-          <caret line="36" column="18" selection-start-line="36" selection-start-column="18" selection-end-line="36" selection-end-column="18" />
-          <folding>
-            <element signature="e#0#2465#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pubspec.lock">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="23">
-          <caret line="13" column="16" lean-forward="true" selection-start-line="13" selection-start-column="16" selection-end-line="13" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/slice_test.dart">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="211">
-          <caret line="14" column="18" lean-forward="true" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/get_test.dart">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="230">
-          <caret line="10" column="25" lean-forward="true" selection-end-line="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib/src/internal/arguments_errors.dart">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="27" selection-start-column="6" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/before_test.dart">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="322">
-          <caret line="14" column="7" selection-end-line="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib/src/debounce.dart" />
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="230">
-          <caret line="10" column="8" lean-forward="true" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib/src/internal/baseFlatten.dart">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="8" column="3" lean-forward="true" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib/src/flattenDeep.dart">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="115">
-          <caret line="5" column="1" lean-forward="true" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib/src/flattenDepth.dart">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="69">
-          <caret line="3" column="21" lean-forward="true" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/flatten_test.dart">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-403">
-          <caret line="8" column="7" lean-forward="true" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
-          <folding>
-            <element signature="e#0#36#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/flatMap_test.dart">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="373">
-          <caret line="20" column="35" lean-forward="true" selection-start-line="20" selection-start-column="35" selection-end-line="20" selection-end-column="35" />
-          <folding>
-            <element signature="e#0#36#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/.pub-cache/hosted/pub.flutter-io.cn/test-1.6.4/lib/test.dart">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#0#260#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/defer_test.dart">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="15" column="26" lean-forward="true" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="26" />
-          <folding>
-            <element signature="e#0#36#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pubspec.yaml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="230">
-          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/chunk_test.dart">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="322">
-          <caret line="14" column="18" lean-forward="true" selection-end-line="24" />
-          <folding>
-            <element signature="e#0#36#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///Library/dart-sdk/lib/core/iterable.dart">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="211">
-          <caret line="468" column="22" selection-start-line="468" selection-start-column="22" selection-end-line="468" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///Library/dart-sdk/lib/internal/iterable.dart">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="256">
-          <caret line="551" column="28" lean-forward="true" selection-start-line="551" selection-start-column="28" selection-end-line="551" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/negate_test.dart">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="293">
-          <caret line="16" column="33" lean-forward="true" selection-start-line="16" selection-start-column="33" selection-end-line="16" selection-end-column="33" />
-          <folding>
-            <element signature="e#0#36#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/todash.iml">
+    <entry file="file://$PROJECT_DIR$/lib/src/isOdd.dart">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="469">
-            <caret line="29" column="6" lean-forward="true" selection-start-line="29" selection-start-column="6" selection-end-line="29" selection-end-column="6" />
-          </first_editor>
-          <second_editor />
+    <entry file="file://$PROJECT_DIR$/lib/src/map.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lib/src/before.dart">
+    <entry file="file://$PROJECT_DIR$/lib/src/defer.dart">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="117">
-          <caret line="44" column="25" lean-forward="true" selection-start-line="44" selection-start-column="25" selection-end-line="44" selection-end-column="25" />
+        <state relative-caret-position="299">
+          <caret line="13" column="25" lean-forward="true" selection-start-line="13" selection-start-column="25" selection-end-line="13" selection-end-column="25" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/lib/src/chunk.dart">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="253">
-          <caret line="11" column="49" lean-forward="true" selection-start-line="11" selection-start-column="49" selection-end-line="11" selection-end-column="49" />
+        <state relative-caret-position="207">
+          <caret line="9" column="3" lean-forward="true" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="3" />
           <folding>
             <element signature="e#0#19#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lib/src/defer.dart">
+    <entry file="file://$PROJECT_DIR$/lib/src/before.dart">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="17" lean-forward="true" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+        <state relative-caret-position="345">
+          <caret line="15" column="27" lean-forward="true" selection-start-line="15" selection-start-column="27" selection-end-line="15" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/src/internal/maxNumber.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="29" selection-start-line="2" selection-start-column="29" selection-end-line="2" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/src/internal/isIndex.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="13" column="15" lean-forward="true" selection-start-line="13" selection-start-column="15" selection-end-line="13" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/src/internal/isFlattenable.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="4" column="1" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/src/internal/getAllKeysIn.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="1" lean-forward="true" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/src/internal/baseFlatten.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="15" column="18" lean-forward="true" selection-start-line="15" selection-start-column="18" selection-end-line="15" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/src/internal/arguments_errors.dart">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/src/internal/test/utils.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1265">
+          <caret line="55" column="1" lean-forward="true" selection-start-line="55" selection-start-column="1" selection-end-line="55" selection-end-column="1" />
         </state>
       </provider>
     </entry>
@@ -1193,47 +1642,180 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lib/src/flatMap.dart">
+    <entry file="file://$PROJECT_DIR$/test/slice_test.dart">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="207">
-          <caret line="9" column="27" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
+        <state>
+          <folding>
+            <element signature="e#0#36#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/src/after.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="523">
+          <caret line="46" column="7" lean-forward="true" selection-start-line="13" selection-start-column="6" selection-end-line="46" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/src/each.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" selection-start-line="2" selection-end-line="4" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/src/internal/arrayEach.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="5" selection-start-column="5" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/src/internal/assignValue.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="3" column="12" selection-start-line="3" selection-start-column="12" selection-end-line="3" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/src/internal/baseAssignValue.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="7" column="3" lean-forward="true" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/src/internal/getKey.dart">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file:///Library/dart-sdk/lib/core/pattern.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="9" column="15" selection-start-line="9" selection-start-column="15" selection-end-line="9" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/todash.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="23" lean-forward="true" selection-start-line="23" selection-start-column="23" selection-end-line="23" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/src/internal/baseSet.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="35" column="13" selection-start-line="35" selection-start-column="13" selection-end-line="35" selection-end-column="13" />
           <folding>
             <element signature="e#0#54#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lib/src/flatMapDeep.dart">
+    <entry file="file://$PROJECT_DIR$/test/negate_test.dart">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="299">
-          <caret line="13" column="1" lean-forward="true" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
+        <state>
           <folding>
-            <element signature="e#0#54#0" expanded="true" />
+            <element signature="e#0#36#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lib/src/flatMapDepth.dart">
+    <entry file="file://$PROJECT_DIR$/test/isIndex_test.dart">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="207">
-          <caret line="9" column="27" lean-forward="true" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
+        <state relative-caret-position="161">
+          <caret line="7" column="49" lean-forward="true" selection-start-line="7" selection-start-column="49" selection-end-line="7" selection-end-column="49" />
           <folding>
-            <element signature="e#0#54#0" expanded="true" />
+            <element signature="e#0#32#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lib/src/flatten.dart">
+    <entry file="file://$PROJECT_DIR$/test/overArgs_test.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="11" column="30" lean-forward="true" selection-start-line="11" selection-start-column="30" selection-end-line="11" selection-end-column="30" />
+          <folding>
+            <element signature="e#0#36#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/src/memoize.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="332">
+          <caret line="61" column="4" lean-forward="true" selection-start-line="61" selection-start-column="4" selection-end-line="61" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/src/internal/memoizeCapped.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="5" column="10" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/src/internal/stringToPath.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="6" column="2" selection-start-line="6" selection-start-column="2" selection-end-line="6" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/src/internal/basePickBy.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="10" column="32" lean-forward="true" selection-start-line="10" selection-start-column="32" selection-end-line="10" selection-end-column="32" />
+          <folding>
+            <element signature="e#0#50#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/src/internal/basePick.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="6" column="15" lean-forward="true" selection-start-line="6" selection-start-column="15" selection-end-line="6" selection-end-column="15" />
+          <folding>
+            <element signature="e#0#53#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/src/internal/toKey.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="6" column="2" selection-start-line="6" selection-start-column="2" selection-end-line="18" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/src/internal/hasDeepIn.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="14" column="7" lean-forward="true" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
+          <folding>
+            <element signature="e#0#55#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/src/internal/baseGet.dart">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="92">
-          <caret line="4" column="1" lean-forward="true" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
+          <caret line="4" column="23" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
+          <folding>
+            <element signature="e#0#51#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lib/src/get.dart">
+    <entry file="file://$PROJECT_DIR$/test/get_test.dart">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="8" column="26" lean-forward="true" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
+        <state>
+          <folding>
+            <element signature="e#0#36#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1244,79 +1826,71 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lib/src/isOdd.dart">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="46">
-          <caret line="2" column="1" lean-forward="true" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib/src/negate.dart">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="161">
-          <caret line="7" column="19" lean-forward="true" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib/src/once.dart">
+    <entry file="file://$PROJECT_DIR$/lib/src/forEach.dart">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="92">
           <caret line="4" column="1" lean-forward="true" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lib/src/slice.dart">
+    <entry file="file://$PROJECT_DIR$/lib/src/internal/hasIn.dart">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="15" column="43" lean-forward="true" selection-start-line="15" selection-start-column="43" selection-end-line="15" selection-end-column="43" />
+        <state relative-caret-position="69">
+          <caret line="3" column="12" lean-forward="true" selection-start-line="3" selection-start-column="12" selection-end-line="3" selection-end-column="12" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test/after_test.dart">
+    <entry file="file://$PROJECT_DIR$/lib/src/internal/isKey.dart">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="17" column="24" lean-forward="true" selection-end-line="24" />
+        <state relative-caret-position="299">
+          <caret line="13" column="20" lean-forward="true" selection-start-line="13" selection-start-column="20" selection-end-line="13" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.pub-cache/hosted/pub.flutter-io.cn/stack_trace-1.9.3/lib/src/stack_zone_specification.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="348">
+          <caret line="175" column="31" selection-start-line="175" selection-start-column="31" selection-end-line="175" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/src/pick.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="226">
+          <caret line="38" column="11" selection-start-line="38" selection-start-column="11" selection-end-line="38" selection-end-column="11" />
           <folding>
-            <element signature="e#0#36#0" expanded="true" />
+            <element signature="e#0#51#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lib/todash.dart">
+    <entry file="file://$PROJECT_DIR$/lib/src/internal/castPath.dart">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="483">
-          <caret line="21" column="20" selection-start-line="21" selection-start-column="12" selection-end-line="21" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib/src/after.dart">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="518">
-          <caret line="24" column="26" lean-forward="true" selection-start-line="24" selection-start-column="26" selection-end-line="24" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib/src/square.dart">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="46">
-          <caret line="2" column="1" lean-forward="true" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/overArgs_test.dart">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="232">
-          <caret line="23" column="20" selection-start-line="23" selection-start-column="20" selection-end-line="23" selection-end-column="20" />
+        <state relative-caret-position="161">
+          <caret line="7" column="46" selection-start-line="7" selection-start-column="46" selection-end-line="7" selection-end-column="46" />
           <folding>
-            <element signature="e#0#36#0" expanded="true" />
+            <element signature="e#0#48#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lib/src/overArgs.dart">
+    <entry file="file://$PROJECT_DIR$/test/pick_test.dart">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="426">
-          <caret line="57" column="38" lean-forward="true" selection-start-line="57" selection-start-column="38" selection-end-line="57" selection-end-column="38" />
+        <state relative-caret-position="236">
+          <caret line="11" column="39" lean-forward="true" selection-start-line="11" selection-start-column="39" selection-end-line="11" selection-end-column="39" />
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="283">
+            <caret line="43" column="8" lean-forward="true" selection-start-line="43" selection-start-column="8" selection-end-line="43" selection-end-column="8" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
