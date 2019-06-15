@@ -27,11 +27,11 @@ String stubC() {
   return 'c';
 }
 
-bool stubTrue([dynamic p]) {
+bool stubTrue([dynamic p1, dynamic p2]) {
   return true;
 }
 
-bool stubFalse([dynamic p]) {
+bool stubFalse([dynamic p1, dynamic p2]) {
   return false;
 }
 
