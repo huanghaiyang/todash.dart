@@ -9,6 +9,9 @@ dependencies:
 
 ## supports
 
+### Array
++ concat
+
 ### Collection
 + slice
 + flatten
