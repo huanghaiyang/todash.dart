@@ -15,15 +15,15 @@ int square(int n) {
 }
 
 /** Stub s. */
-String stubA() {
+String stubA([dynamic p1, dynamic p2]) {
   return 'a';
 }
 
-String stubB() {
+String stubB([dynamic p1, dynamic p2]) {
   return 'b';
 }
 
-String stubC() {
+String stubC([dynamic p1, dynamic p2]) {
   return 'c';
 }
 
@@ -35,38 +35,40 @@ bool stubFalse([dynamic p1, dynamic p2]) {
   return false;
 }
 
-bool stubNull() {
+bool stubNull([dynamic p1, dynamic p2]) {
   return null;
 }
 
-int stubZero() {
+int stubZero([dynamic p1, dynamic p2]) {
   return 0;
 }
 
-int stubOne() {
+int stubOne([dynamic p1, dynamic p2]) {
   return 1;
 }
 
-int stubTwo() {
+int stubTwo([dynamic p1, dynamic p2]) {
   return 2;
 }
 
-int stubThree() {
+int stubThree([dynamic p1, dynamic p2]) {
   return 3;
 }
 
-int stubFour() {
+int stubFour([dynamic p1, dynamic p2]) {
   return 4;
 }
 
-List stubArray() {
+List stubArray([dynamic p1, dynamic p2]) {
   return [];
 }
 
-Map stubObject() {
+Map stubObject([dynamic p1, dynamic p2]) {
   return {};
 }
 
-String stubString() {
+String stubString([dynamic p1, dynamic p2]) {
   return '';
 }
+
+final LARGE_ARRAY_SIZE = 200;

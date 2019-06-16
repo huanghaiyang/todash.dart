@@ -41,7 +41,7 @@ void main() {
       each([
         'a.b',
         ['a.b']
-      ], (path) {
+      ], (path, [index, array]) {
         expect(pick(object, path), {'a.b': 1});
       });
     });
@@ -51,7 +51,7 @@ void main() {
     });
 
     test('should return an empty object when `object` is nullish', () {
-      each([null], (value) {
+      each([null], (value, [index, array]) {
         expect(pick(value, 'valueOf'), {});
       });
     });

@@ -1,4 +1,5 @@
-int MAX_SAFE_INTEGER = 9007199254740991;
+import 'package:todash/src/internal/constants.dart';
+
 RegExp regExp = new RegExp("^(?:0|[1-9]\d*)\$");
 
 bool isIndex(dynamic value, [int length]) {

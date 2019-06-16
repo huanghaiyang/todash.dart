@@ -1,5 +1,7 @@
 # A lodash implement by Dart
 
+<font style="color:red;"> Keep on developing. </font>  
+
 ## Add Dependency
 ```yaml
 dependencies:
@@ -11,6 +13,9 @@ dependencies:
 
 ### Array
 + concat
++ difference
++ differenceBy
++ differenceWith
 
 ### Collection
 + slice
@@ -38,6 +43,7 @@ dependencies:
 + isNull
 + isEven
 + isOdd
++ toString
 
 ### Math
 
@@ -45,3 +51,8 @@ dependencies:
 + get
 + pick       // The type of key should be String, fix for other type later
 + pickBy
+
+### utils
++ range
++ rangeRight
++ times
