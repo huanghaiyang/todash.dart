@@ -17,6 +17,7 @@ dependencies:
 + differenceBy
 + differenceWith
 + fromPairs
++ head
 
 ### Collection
 + slice

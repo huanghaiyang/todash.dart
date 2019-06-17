@@ -33,3 +33,4 @@ export 'src/times.dart';
 export 'src/constant.dart';
 export 'src/fromPairs.dart';
 export 'src/toPairs.dart';
+export 'src/head.dart';
