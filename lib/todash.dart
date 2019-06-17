@@ -31,3 +31,5 @@ export 'src/range.dart';
 export 'src/rangeRight.dart';
 export 'src/times.dart';
 export 'src/constant.dart';
+export 'src/fromPairs.dart';
+export 'src/toPairs.dart';

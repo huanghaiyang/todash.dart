@@ -16,6 +16,7 @@ dependencies:
 + difference
 + differenceBy
 + differenceWith
++ fromPairs
 
 ### Collection
 + slice
@@ -51,6 +52,7 @@ dependencies:
 + get
 + pick       // The type of key should be String, fix for other type later
 + pickBy
++ toPairs
 
 ### utils
 + range
