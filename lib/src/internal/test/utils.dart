@@ -71,4 +71,6 @@ String stubString([dynamic p1, dynamic p2]) {
   return '';
 }
 
+void noop([dynamic p1, dynamic p2]) {}
+
 final LARGE_ARRAY_SIZE = 200;

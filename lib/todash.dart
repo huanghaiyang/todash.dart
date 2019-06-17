@@ -34,3 +34,4 @@ export 'src/constant.dart';
 export 'src/fromPairs.dart';
 export 'src/toPairs.dart';
 export 'src/head.dart';
+export 'src/wrap.dart';

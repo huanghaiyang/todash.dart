@@ -40,6 +40,7 @@ dependencies:
 + once
 + overArgs
 + memoize
++ wrap
 
 ### Lang
 + isNull
