@@ -20,6 +20,8 @@ dependencies:
 + head
 + first
 + fill
++ findIndex
++ indexOf
 
 ### Collection
 + slice
@@ -50,6 +52,7 @@ dependencies:
 + isOdd
 + toString
 + castArray
++ eq
 
 ### Math
 

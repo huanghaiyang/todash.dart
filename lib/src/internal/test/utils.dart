@@ -15,6 +15,7 @@ int square(int n) {
 }
 
 /** Stub s. */
+
 String stubA([dynamic p1, dynamic p2]) {
   return 'a';
 }
