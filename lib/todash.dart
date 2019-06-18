@@ -35,3 +35,4 @@ export 'src/fromPairs.dart';
 export 'src/toPairs.dart';
 export 'src/head.dart';
 export 'src/wrap.dart';
+export 'src/castArray.dart';

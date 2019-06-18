@@ -47,6 +47,7 @@ dependencies:
 + isEven
 + isOdd
 + toString
++ castArray
 
 ### Math
 
