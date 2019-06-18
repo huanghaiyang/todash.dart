@@ -18,6 +18,7 @@ dependencies:
 + differenceWith
 + fromPairs
 + head
++ first
 + fill
 
 ### Collection

@@ -37,3 +37,4 @@ export 'src/head.dart';
 export 'src/wrap.dart';
 export 'src/castArray.dart';
 export 'src/fill.dart';
+export 'src/first.dart';
