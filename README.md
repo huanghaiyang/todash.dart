@@ -53,6 +53,10 @@ dependencies:
 + toString
 + castArray
 + eq
++ clone
++ cloneWith
++ cloneDeep
++ cloneDeepWith
 
 ### Math
 
