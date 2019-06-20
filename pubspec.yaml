@@ -1,8 +1,8 @@
 name: todash
 description: lodash implement by dart, a tiny lodash.
-# version: 1.0.0
-# homepage: https://www.example.com
-# author: huang <haiyang.huang@forceclouds.com>
+version: 0.1.0
+homepage: https://github.com/huanghaiyang/todash
+author: huang <huanhai24@sina.com>
 
 environment:
   sdk: '>=2.2.0 <3.0.0'
