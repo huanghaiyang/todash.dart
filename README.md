@@ -4,12 +4,12 @@
 
 ## Add Dependency
 
-#### 作者翻墙失败，导致无法发版，所以请按下面的方式使用
+#### 翻墙失败，导致无法release 0.1.0，所以请按下面的方式使用
 
 ```yaml
 dependencies:
-    todash:
-        git: git://github.com/huanghaiyang/todash
+  todash:
+    git: git://github.com/huanghaiyang/todash
 ```
 
 ## supports
