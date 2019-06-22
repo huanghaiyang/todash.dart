@@ -38,6 +38,7 @@ dependencies:
 + map
 + each
 + forEach
++ forEachRight
 
 ### Function
 + after

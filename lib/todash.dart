@@ -25,6 +25,7 @@ export 'src/flatten.dart';
 export 'src/flattenDeep.dart';
 export 'src/flattenDepth.dart';
 export 'src/forEach.dart';
+export 'src/forEachRight.dart';
 export 'src/fromPairs.dart';
 export 'src/get.dart';
 export 'src/head.dart';
