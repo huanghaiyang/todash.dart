@@ -28,6 +28,7 @@ export 'src/forEach.dart';
 export 'src/forEachRight.dart';
 export 'src/fromPairs.dart';
 export 'src/get.dart';
+export 'src/groupBy.dart';
 export 'src/head.dart';
 export 'src/indexOf.dart';
 export 'src/isEven.dart';

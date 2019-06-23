@@ -39,6 +39,7 @@ dependencies:
 + each
 + forEach
 + forEachRight
++ groupBy
 
 ### Function
 + after
